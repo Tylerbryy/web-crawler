@@ -1,0 +1,9 @@
+{
+	"id": "AqbR1sq2ybDexU9",
+	"json": "{\"id\":\"AqbR1sq2ybDexU9\",\"url\":\"https://python.langchain.com/docs/templates/neo4j-parent\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/neo4j-parent\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/neo4j-parent\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:35:59.506Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/neo4j-parent",
+	"url": "https://python.langchain.com/docs/templates/neo4j-parent"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "T1FVpEL10KIhUOw",
+	"json": "{\"id\":\"T1FVpEL10KIhUOw\",\"url\":\"https://python.langchain.com/docs/templates/chain-of-note-wiki\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/chain-of-note-wiki\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/chain-of-note-wiki\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:35:55.769Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/chain-of-note-wiki",
+	"url": "https://python.langchain.com/docs/templates/chain-of-note-wiki"
+}

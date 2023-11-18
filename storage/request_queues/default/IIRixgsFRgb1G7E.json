@@ -1,0 +1,9 @@
+{
+	"id": "IIRixgsFRgb1G7E",
+	"json": "{\"id\":\"IIRixgsFRgb1G7E\",\"url\":\"https://python.langchain.com/docs/templates/rag-fusion\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/rag-fusion\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/rag-fusion\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:02.756Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/rag-fusion",
+	"url": "https://python.langchain.com/docs/templates/rag-fusion"
+}

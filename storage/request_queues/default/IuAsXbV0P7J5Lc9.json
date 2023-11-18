@@ -1,0 +1,9 @@
+{
+	"id": "IuAsXbV0P7J5Lc9",
+	"json": "{\"id\":\"IuAsXbV0P7J5Lc9\",\"url\":\"https://python.langchain.com/docs/langserve\",\"loadedUrl\":\"https://python.langchain.com/docs/langserve\",\"uniqueKey\":\"https://python.langchain.com/docs/langserve\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:35:47.136Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/langserve",
+	"url": "https://python.langchain.com/docs/langserve"
+}

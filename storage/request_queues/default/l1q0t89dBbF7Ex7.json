@@ -1,0 +1,9 @@
+{
+	"id": "l1q0t89dBbF7Ex7",
+	"json": "{\"id\":\"l1q0t89dBbF7Ex7\",\"url\":\"https://python.langchain.com/docs/templates/llama2-functions\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/llama2-functions\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/llama2-functions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:35:57.908Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/llama2-functions",
+	"url": "https://python.langchain.com/docs/templates/llama2-functions"
+}

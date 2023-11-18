@@ -1,0 +1,9 @@
+{
+	"id": "2qsEQrxYzTgIpwu",
+	"json": "{\"id\":\"2qsEQrxYzTgIpwu\",\"url\":\"https://python.langchain.com/docs/templates/rag-conversation-zep\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/rag-conversation-zep\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/rag-conversation-zep\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:01.819Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/rag-conversation-zep",
+	"url": "https://python.langchain.com/docs/templates/rag-conversation-zep"
+}

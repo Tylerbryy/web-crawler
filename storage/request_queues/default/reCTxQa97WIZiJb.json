@@ -1,0 +1,9 @@
+{
+	"id": "reCTxQa97WIZiJb",
+	"json": "{\"id\":\"reCTxQa97WIZiJb\",\"url\":\"https://python.langchain.com/docs/templates/rag-codellama-fireworks\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/rag-codellama-fireworks\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/rag-codellama-fireworks\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:01.615Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/rag-codellama-fireworks",
+	"url": "https://python.langchain.com/docs/templates/rag-codellama-fireworks"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "PrhZA7Q8y5gv5vq",
+	"json": "{\"id\":\"PrhZA7Q8y5gv5vq\",\"url\":\"https://python.langchain.com/docs/templates/elastic-query-generator\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/elastic-query-generator\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/elastic-query-generator\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:35:56.440Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/elastic-query-generator",
+	"url": "https://python.langchain.com/docs/templates/elastic-query-generator"
+}

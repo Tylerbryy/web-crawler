@@ -1,0 +1,9 @@
+{
+	"id": "MzffxspZxN2mCD5",
+	"json": "{\"id\":\"MzffxspZxN2mCD5\",\"url\":\"https://python.langchain.com/docs/templates/rag-weaviate\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/rag-weaviate\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/rag-weaviate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:06.527Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/rag-weaviate",
+	"url": "https://python.langchain.com/docs/templates/rag-weaviate"
+}

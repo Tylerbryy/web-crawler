@@ -1,0 +1,9 @@
+{
+	"id": "eRDEPBaQBKs0z1Z",
+	"json": "{\"id\":\"eRDEPBaQBKs0z1Z\",\"url\":\"https://python.langchain.com/docs/templates/rag-chroma-private\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/rag-chroma-private\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/rag-chroma-private\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:01.360Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/rag-chroma-private",
+	"url": "https://python.langchain.com/docs/templates/rag-chroma-private"
+}

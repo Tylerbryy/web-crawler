@@ -1,0 +1,9 @@
+{
+	"id": "ouN4uRYcWdM7ArV",
+	"json": "{\"id\":\"ouN4uRYcWdM7ArV\",\"url\":\"https://python.langchain.com/docs/use_cases/question_answering/\",\"loadedUrl\":\"https://python.langchain.com/docs/use_cases/question_answering/\",\"uniqueKey\":\"https://python.langchain.com/docs/use_cases/question_answering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:35:47.739Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/use_cases/question_answering",
+	"url": "https://python.langchain.com/docs/use_cases/question_answering/"
+}

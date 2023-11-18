@@ -1,0 +1,9 @@
+{
+	"id": "Sw96yJv5mWleTIX",
+	"json": "{\"id\":\"Sw96yJv5mWleTIX\",\"url\":\"https://python.langchain.com/docs/templates/rag-semi-structured\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/rag-semi-structured\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/rag-semi-structured\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:05.176Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/rag-semi-structured",
+	"url": "https://python.langchain.com/docs/templates/rag-semi-structured"
+}

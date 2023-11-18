@@ -1,0 +1,9 @@
+{
+	"id": "4m4YWDmSqDZAZwF",
+	"json": "{\"id\":\"4m4YWDmSqDZAZwF\",\"url\":\"https://python.langchain.com/docs/templates/sql-llama2\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/sql-llama2\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/sql-llama2\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:07.881Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/sql-llama2",
+	"url": "https://python.langchain.com/docs/templates/sql-llama2"
+}

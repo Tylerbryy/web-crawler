@@ -1,0 +1,9 @@
+{
+	"id": "grXkEQEKK4dpr83",
+	"json": "{\"id\":\"grXkEQEKK4dpr83\",\"url\":\"https://python.langchain.com/docs/templates/mongo-parent-document-retrieval\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/mongo-parent-document-retrieval\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/mongo-parent-document-retrieval\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:35:58.108Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/mongo-parent-document-retrieval",
+	"url": "https://python.langchain.com/docs/templates/mongo-parent-document-retrieval"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "9OQXDBckwDCACk1",
+	"json": "{\"id\":\"9OQXDBckwDCACk1\",\"url\":\"https://python.langchain.com/docs/use_cases/data_generation\",\"loadedUrl\":\"https://python.langchain.com/docs/use_cases/data_generation\",\"uniqueKey\":\"https://python.langchain.com/docs/use_cases/data_generation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:35:49.732Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/use_cases/data_generation",
+	"url": "https://python.langchain.com/docs/use_cases/data_generation"
+}

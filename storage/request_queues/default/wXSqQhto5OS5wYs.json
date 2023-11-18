@@ -1,0 +1,9 @@
+{
+	"id": "wXSqQhto5OS5wYs",
+	"json": "{\"id\":\"wXSqQhto5OS5wYs\",\"url\":\"https://python.langchain.com/docs/templates/rag-redis\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/rag-redis\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/rag-redis\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:04.457Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/rag-redis",
+	"url": "https://python.langchain.com/docs/templates/rag-redis"
+}

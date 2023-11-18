@@ -1,0 +1,9 @@
+{
+	"id": "YYDPIhmCAs19Skr",
+	"json": "{\"id\":\"YYDPIhmCAs19Skr\",\"url\":\"https://python.langchain.com/docs/templates/hybrid-search-weaviate\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/hybrid-search-weaviate\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/hybrid-search-weaviate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:35:57.420Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/hybrid-search-weaviate",
+	"url": "https://python.langchain.com/docs/templates/hybrid-search-weaviate"
+}

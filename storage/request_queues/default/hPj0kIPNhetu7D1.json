@@ -1,0 +1,9 @@
+{
+	"id": "hPj0kIPNhetu7D1",
+	"json": "{\"id\":\"hPj0kIPNhetu7D1\",\"url\":\"https://python.langchain.com/docs/templates/rag-pinecone\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/rag-pinecone\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/rag-pinecone\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:04.282Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/rag-pinecone",
+	"url": "https://python.langchain.com/docs/templates/rag-pinecone"
+}

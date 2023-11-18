@@ -1,0 +1,9 @@
+{
+	"id": "oLwJDCm40iIb6KW",
+	"json": "{\"id\":\"oLwJDCm40iIb6KW\",\"url\":\"https://python.langchain.com/docs/guides/deployments/\",\"loadedUrl\":\"https://python.langchain.com/docs/guides/deployments/\",\"uniqueKey\":\"https://python.langchain.com/docs/guides/deployments\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:35:53.102Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/guides/deployments",
+	"url": "https://python.langchain.com/docs/guides/deployments/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "2iHFEuHPsPh98Wj",
+	"json": "{\"id\":\"2iHFEuHPsPh98Wj\",\"url\":\"https://python.langchain.com/docs/templates/cassandra-synonym-caching\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/cassandra-synonym-caching\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/cassandra-synonym-caching\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:35:55.581Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/cassandra-synonym-caching",
+	"url": "https://python.langchain.com/docs/templates/cassandra-synonym-caching"
+}

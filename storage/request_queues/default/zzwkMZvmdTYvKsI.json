@@ -1,0 +1,9 @@
+{
+	"id": "zzwkMZvmdTYvKsI",
+	"json": "{\"id\":\"zzwkMZvmdTYvKsI\",\"url\":\"https://python.langchain.com/docs/templates/pii-protected-chatbot\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/pii-protected-chatbot\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/pii-protected-chatbot\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:35:59.991Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/pii-protected-chatbot",
+	"url": "https://python.langchain.com/docs/templates/pii-protected-chatbot"
+}

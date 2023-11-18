@@ -1,0 +1,9 @@
+{
+	"id": "LePgGun4E3MeHxc",
+	"json": "{\"id\":\"LePgGun4E3MeHxc\",\"url\":\"https://python.langchain.com/docs/templates/rag-pinecone-multi-query\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/rag-pinecone-multi-query\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/rag-pinecone-multi-query\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:04.035Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/rag-pinecone-multi-query",
+	"url": "https://python.langchain.com/docs/templates/rag-pinecone-multi-query"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Xh7iE9dwLZJDp4l",
+	"json": "{\"id\":\"Xh7iE9dwLZJDp4l\",\"url\":\"https://python.langchain.com/docs/use_cases/chatbots/\",\"loadedUrl\":\"https://python.langchain.com/docs/use_cases/chatbots/\",\"uniqueKey\":\"https://python.langchain.com/docs/use_cases/chatbots\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:35:47.937Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/use_cases/chatbots",
+	"url": "https://python.langchain.com/docs/use_cases/chatbots/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "zEq2iIAuIWrzJZg",
+	"json": "{\"id\":\"zEq2iIAuIWrzJZg\",\"url\":\"https://python.langchain.com/docs/templates/extraction-openai-functions\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/extraction-openai-functions\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/extraction-openai-functions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:35:57.091Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/extraction-openai-functions",
+	"url": "https://python.langchain.com/docs/templates/extraction-openai-functions"
+}

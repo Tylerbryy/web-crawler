@@ -1,0 +1,9 @@
+{
+	"id": "SWotss2CORMdQBy",
+	"json": "{\"id\":\"SWotss2CORMdQBy\",\"url\":\"https://python.langchain.com/docs/templates/extraction-anthropic-functions\",\"loadedUrl\":\"https://python.langchain.com/docs/templates/extraction-anthropic-functions\",\"uniqueKey\":\"https://python.langchain.com/docs/templates/extraction-anthropic-functions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:35:57.188Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/templates/extraction-anthropic-functions",
+	"url": "https://python.langchain.com/docs/templates/extraction-anthropic-functions"
+}
