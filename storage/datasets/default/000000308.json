@@ -1,0 +1,5 @@
+{
+	"title": "Tencent COS Directory | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/tencent_cos_directory",
+	"html": "ComponentsDocument loadersTencent COS Directory\nTencent COS Directory\n\nThis covers how to load document objects from a Tencent COS Directory.\n\n#! pip install cos-python-sdk-v5\n\nfrom langchain.document_loaders import TencentCOSDirectoryLoader\nfrom qcloud_cos import CosConfig\n\nconf = CosConfig(\n    Region=\"your cos region\",\n    SecretId=\"your cos secret_id\",\n    SecretKey=\"your cos secret_key\",\n)\nloader = TencentCOSDirectoryLoader(conf=conf, bucket=\"you_cos_bucket\")\n\nloader.load()\n\nSpecifying a prefix​\n\nYou can also specify a prefix for more finegrained control over what files to load.\n\nloader = TencentCOSDirectoryLoader(conf=conf, bucket=\"you_cos_bucket\", prefix=\"fake\")\n\nloader.load()\n\nPrevious\nTelegram\nNext\nTencent COS File"
+}

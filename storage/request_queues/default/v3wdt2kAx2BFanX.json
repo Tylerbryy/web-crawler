@@ -1,0 +1,9 @@
+{
+	"id": "v3wdt2kAx2BFanX",
+	"json": "{\"id\":\"v3wdt2kAx2BFanX\",\"url\":\"https://python.langchain.com/docs/integrations/vectorstores/azure_cosmos_db\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/vectorstores/azure_cosmos_db\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/vectorstores/azure_cosmos_db\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:39:03.381Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/vectorstores/azure_cosmos_db",
+	"url": "https://python.langchain.com/docs/integrations/vectorstores/azure_cosmos_db"
+}

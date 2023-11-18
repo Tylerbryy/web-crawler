@@ -1,0 +1,5 @@
+{
+	"title": "Adding moderation | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/expression_language/cookbook/moderation",
+	"html": "LangChain Expression LanguageCookbookAdding moderation\nAdding moderation\n\nThis shows how to add in moderation (or other safeguards) around your LLM application.\n\nfrom langchain.chains import OpenAIModerationChain\nfrom langchain.llms import OpenAI\nfrom langchain.prompts import ChatPromptTemplate\n\nmoderate = OpenAIModerationChain()\n\nmodel = OpenAI()\nprompt = ChatPromptTemplate.from_messages([(\"system\", \"repeat after me: {input}\")])\n\nchain = prompt | model\n\nchain.invoke({\"input\": \"you are stupid\"})\n\n    '\\n\\nYou are stupid.'\n\nmoderated_chain = chain | moderate\n\nmoderated_chain.invoke({\"input\": \"you are stupid\"})\n\n    {'input': '\\n\\nYou are stupid',\n     'output': \"Text was found that violates OpenAI's content policy.\"}\n\nPrevious\nAdding memory\nNext\nManaging prompt size"
+}

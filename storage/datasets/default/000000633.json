@@ -1,0 +1,5 @@
+{
+	"title": "BagelDB | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/bageldb",
+	"html": "ProvidersMoreBagelDB\nBagelDB\n\nBagelDB (Open Vector Database for AI), is like GitHub for AI data. It is a collaborative platform where users can create, share, and manage vector datasets. It can support private projects for independent developers, internal collaborations for enterprises, and public contributions for data DAOs.\n\nInstallation and Setup​\npip install betabageldb\n\nVectorStore​\n\nSee a usage example.\n\nfrom langchain.vectorstores import Bagel\n\nPrevious\nAZLyrics\nNext\nBanana"
+}

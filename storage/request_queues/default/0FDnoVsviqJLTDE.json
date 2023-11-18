@@ -1,0 +1,9 @@
+{
+	"id": "0FDnoVsviqJLTDE",
+	"json": "{\"id\":\"0FDnoVsviqJLTDE\",\"url\":\"https://python.langchain.com/docs/modules/chains/document/map_rerank\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/chains/document/map_rerank\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/chains/document/map_rerank\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:38:54.042Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/chains/document/map_rerank",
+	"url": "https://python.langchain.com/docs/modules/chains/document/map_rerank"
+}

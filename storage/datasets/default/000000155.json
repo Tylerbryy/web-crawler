@@ -1,0 +1,5 @@
+{
+	"title": "Tools | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/modules/agents/tools/",
+	"html": "ModulesAgentsTools\nTools\nINFO\n\nFor documentation on built-in tool integrations, visit Integrations.\n\nTools are interfaces that an agent can use to interact with the world.\n\nGetting Started​\n\nTools are functions that agents can use to interact with the world. These tools can be generic utilities (e.g. search), other chains, or even other agents.\n\nCurrently, tools can be loaded using the following snippet:\n\nfrom langchain.agents import load_tools\ntool_names = [...]\ntools = load_tools(tool_names)\n\n\nSome tools (e.g. chains, agents) may require a base LLM to use to initialize them. In that case, you can pass in an LLM as well:\n\nfrom langchain.agents import load_tools\ntool_names = [...]\nllm = ...\ntools = load_tools(tool_names, llm=llm)\n\nPrevious\nUse ToolKits with OpenAI Functions\nNext\nToolkits"
+}

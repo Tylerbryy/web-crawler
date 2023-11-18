@@ -1,0 +1,9 @@
+{
+	"id": "bqOrAr22c2YJXKZ",
+	"json": "{\"id\":\"bqOrAr22c2YJXKZ\",\"url\":\"https://python.langchain.com/docs/integrations/document_loaders/google_bigquery\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/document_loaders/google_bigquery\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/document_loaders/google_bigquery\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:43.569Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/document_loaders/google_bigquery",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/google_bigquery"
+}

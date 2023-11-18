@@ -1,0 +1,5 @@
+{
+	"title": "Foundational | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/modules/chains/foundational/",
+	"html": "ModulesMoreChainsFoundational\nFoundational\n📄️ LLM\n\nThe most common type of chaining in any LLM application is combining a prompt template with an LLM and optionally an output parser.\n\n📄️ Router\n\nRouting allows you to create non-deterministic chains where the output of a previous step defines the next step. Routing helps provide structure and consistency around interactions with LLMs.\n\n📄️ Sequential\n\nThe next step after calling a language model is to make a series of calls to a language model. This is particularly useful when you want to take the output from one call and use it as the input to another.\n\n📄️ Transformation\n\nOften we want to transform inputs as they are passed from one component to another.\n\nPrevious\nUsing OpenAI functions\nNext\nLLM"
+}

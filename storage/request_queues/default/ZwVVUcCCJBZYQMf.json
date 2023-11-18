@@ -1,0 +1,9 @@
+{
+	"id": "ZwVVUcCCJBZYQMf",
+	"json": "{\"id\":\"ZwVVUcCCJBZYQMf\",\"url\":\"https://python.langchain.com/docs/integrations/text_embedding/google_vertex_ai_palm\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/text_embedding/google_vertex_ai_palm\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/text_embedding/google_vertex_ai_palm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:40:45.254Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/text_embedding/google_vertex_ai_palm",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/google_vertex_ai_palm"
+}

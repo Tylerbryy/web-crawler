@@ -1,0 +1,5 @@
+{
+	"title": "Writer | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/llms/writer",
+	"html": "ComponentsLLMsWriter\nWriter\n\nWriter is a platform to generate different language content.\n\nThis example goes over how to use LangChain to interact with Writer models.\n\nYou have to get the WRITER_API_KEY here.\n\nfrom getpass import getpass\n\nWRITER_API_KEY = getpass()\n\n     ········\n\nimport os\n\nos.environ[\"WRITER_API_KEY\"] = WRITER_API_KEY\n\nfrom langchain.chains import LLMChain\nfrom langchain.llms import Writer\nfrom langchain.prompts import PromptTemplate\n\ntemplate = \"\"\"Question: {question}\n\nAnswer: Let's think step by step.\"\"\"\n\nprompt = PromptTemplate(template=template, input_variables=[\"question\"])\n\n# If you get an error, probably, you need to set up the \"base_url\" parameter that can be taken from the error log.\n\nllm = Writer()\n\nllm_chain = LLMChain(prompt=prompt, llm=llm)\n\nquestion = \"What NFL team won the Super Bowl in the year Justin Beiber was born?\"\n\nllm_chain.run(question)\n\nPrevious\nvLLM\nNext\nXorbits Inference (Xinference)"
+}

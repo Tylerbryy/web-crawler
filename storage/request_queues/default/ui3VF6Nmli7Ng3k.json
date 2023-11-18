@@ -1,0 +1,9 @@
+{
+	"id": "ui3VF6Nmli7Ng3k",
+	"json": "{\"id\":\"ui3VF6Nmli7Ng3k\",\"url\":\"https://python.langchain.com/docs/guides/evaluation/trajectory/\",\"loadedUrl\":\"https://python.langchain.com/docs/guides/evaluation/trajectory/\",\"uniqueKey\":\"https://python.langchain.com/docs/guides/evaluation/trajectory\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:37:09.574Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/guides/evaluation/trajectory",
+	"url": "https://python.langchain.com/docs/guides/evaluation/trajectory/"
+}

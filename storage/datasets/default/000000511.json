@@ -1,0 +1,5 @@
+{
+	"title": "MiniMax | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/chat/minimax",
+	"html": "ComponentsChat modelsMiniMax\nMiniMax\n\nMinimax is a Chinese startup that provides LLM service for companies and individuals.\n\nThis example goes over how to use LangChain to interact with MiniMax Inference for Chat.\n\nimport os\n\nos.environ[\"MINIMAX_GROUP_ID\"] = \"MINIMAX_GROUP_ID\"\nos.environ[\"MINIMAX_API_KEY\"] = \"MINIMAX_API_KEY\"\n\nfrom langchain.chat_models import MiniMaxChat\nfrom langchain.schema import HumanMessage\n\nchat = MiniMaxChat()\n\nchat(\n    [\n        HumanMessage(\n            content=\"Translate this sentence from English to French. I love programming.\"\n        )\n    ]\n)\n\nPrevious\nLlama API\nNext\nOllama"
+}

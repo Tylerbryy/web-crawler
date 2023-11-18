@@ -1,0 +1,5 @@
+{
+	"title": "Stripe | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/stripe",
+	"html": "ProvidersMoreStripe\nStripe\n\nStripe is an Irish-American financial services and software as a service (SaaS) company. It offers payment-processing software and application programming interfaces for e-commerce websites and mobile applications.\n\nInstallation and Setup​\n\nSee setup instructions.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import StripeLoader\n\nPrevious\nStochasticAI\nNext\nSupabase (Postgres)"
+}

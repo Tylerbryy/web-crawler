@@ -1,0 +1,5 @@
+{
+	"title": "SingleStoreDB | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/memory/singlestoredb_chat_message_history",
+	"html": "ComponentsMemorySingleStoreDB\nSingleStoreDB\n\nThis notebook goes over how to use SingleStoreDB to store chat message history.\n\nfrom langchain.memory import SingleStoreDBChatMessageHistory\n\nhistory = SingleStoreDBChatMessageHistory(\n    session_id=\"foo\", host=\"root:pass@localhost:3306/db\"\n)\n\nhistory.add_user_message(\"hi!\")\n\nhistory.add_ai_message(\"whats up?\")\n\nhistory.messages\n\nPrevious\nRockset\nNext\nSQL (SQLAlchemy)"
+}

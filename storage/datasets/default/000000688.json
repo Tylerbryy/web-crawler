@@ -1,0 +1,5 @@
+{
+	"title": "Hacker News | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/hacker_news",
+	"html": "ProvidersMoreHacker News\nHacker News\n\nHacker News (sometimes abbreviated as HN) is a social news website focusing on computer science and entrepreneurship. It is run by the investment fund and startup incubator Y Combinator. In general, content that can be submitted is defined as \"anything that gratifies one's intellectual curiosity.\"\n\nInstallation and Setup​\n\nThere isn't any special setup for it.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import HNLoader\n\nPrevious\nGutenberg\nNext\nHazy Research"
+}

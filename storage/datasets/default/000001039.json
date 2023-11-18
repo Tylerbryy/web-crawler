@@ -1,0 +1,5 @@
+{
+	"title": "SemaDB | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/providers/semadb",
+	"html": "ProvidersMoreprovidersSemaDB\nSemaDB\n\nSemaDB is a no fuss vector similarity search engine. It provides a low-cost cloud hosted version to help you build AI applications with ease.\n\nWith SemaDB Cloud, our hosted version, no fuss means no pod size calculations, no schema definitions, no partition settings, no parameter tuning, no search algorithm tuning, no complex installation, no complex API. It is integrated with RapidAPI providing transparent billing, automatic sharding and an interactive API playground.\n\nInstallation​\n\nNone required, get started directly with SemaDB Cloud at RapidAPI.\n\nVector Store​\n\nThere is a basic wrapper around SemaDB collections allowing you to use it as a vectorstore.\n\nfrom langchain.vectorstores import SemaDB\n\n\nYou can follow a tutorial on how to use the wrapper in this notebook.\n\nPrevious\nPromptLayer\nNext\nPsychic"
+}

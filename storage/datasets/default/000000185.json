@@ -1,0 +1,5 @@
+{
+	"title": "Neptune Open Cypher QA Chain | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/use_cases/graph/neptune_cypher_qa",
+	"html": "Graph queryingNeptune Open Cypher QA Chain\nNeptune Open Cypher QA Chain\n\nThis QA chain queries Neptune graph database using openCypher and returns human readable response\n\nfrom langchain.graphs import NeptuneGraph\n\nhost = \"<neptune-host>\"\nport = 8182\nuse_https = True\n\ngraph = NeptuneGraph(host=host, port=port, use_https=use_https)\n\nfrom langchain.chains import NeptuneOpenCypherQAChain\nfrom langchain.chat_models import ChatOpenAI\n\nllm = ChatOpenAI(temperature=0, model=\"gpt-4\")\n\nchain = NeptuneOpenCypherQAChain.from_llm(llm=llm, graph=graph)\n\nchain.run(\"how many outgoing routes does the Austin airport have?\")\n\n    'The Austin airport has 98 outgoing routes.'\n\nPrevious\nGraphSparqlQAChain"
+}

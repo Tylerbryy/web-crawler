@@ -1,0 +1,9 @@
+{
+	"id": "vM6z8MKIQYXenDn",
+	"json": "{\"id\":\"vM6z8MKIQYXenDn\",\"url\":\"https://python.langchain.com/docs/modules/agents/how_to/agent_structured\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/agents/how_to/agent_structured\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/agents/how_to/agent_structured\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:40:38.209Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/agents/how_to/agent_structured",
+	"url": "https://python.langchain.com/docs/modules/agents/how_to/agent_structured"
+}

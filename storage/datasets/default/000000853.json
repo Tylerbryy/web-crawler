@@ -1,0 +1,5 @@
+{
+	"title": "Instruct Embeddings on Hugging Face | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/instruct_embeddings",
+	"html": "ComponentsText embedding modelsInstruct Embeddings on Hugging Face\nInstruct Embeddings on Hugging Face\n\nHugging Face sentence-transformers is a Python framework for state-of-the-art sentence, text and image embeddings. One of the instruct embedding models is used in the HuggingFaceInstructEmbeddings class.\n\nfrom langchain.embeddings import HuggingFaceInstructEmbeddings\n\nembeddings = HuggingFaceInstructEmbeddings(\n    query_instruction=\"Represent the query for retrieval: \"\n)\n\n    load INSTRUCTOR_Transformer\n    max_seq_length  512\n\ntext = \"This is a test document.\"\n\nquery_result = embeddings.embed_query(text)\n\nPrevious\nHugging Face\nNext\nJina"
+}

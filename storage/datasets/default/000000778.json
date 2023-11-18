@@ -1,0 +1,5 @@
+{
+	"title": "Tigris | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/tigris",
+	"html": "ProvidersMoreTigris\nTigris\n\nTigris is an open-source Serverless NoSQL Database and Search Platform designed to simplify building high-performance vector search applications. Tigris eliminates the infrastructure complexity of managing, operating, and synchronizing multiple tools, allowing you to focus on building great applications instead.\n\nInstallation and Setup​\npip install tigrisdb openapi-schema-pydantic openai tiktoken\n\nVector Store​\n\nSee a usage example.\n\nfrom langchain.vectorstores import Tigris\n\nPrevious\nTensorFlow Datasets\nNext\n2Markdown"
+}

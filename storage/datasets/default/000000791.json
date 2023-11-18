@@ -1,0 +1,5 @@
+{
+	"title": "Weather | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/weather",
+	"html": "ProvidersMoreWeather\nWeather\n\nOpenWeatherMap is an open-source weather service provider.\n\nInstallation and Setup​\npip install pyowm\n\n\nWe must set up the OpenWeatherMap API token.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import WeatherDataLoader\n\nPrevious\nWeights & Biases\nNext\nWeaviate"
+}

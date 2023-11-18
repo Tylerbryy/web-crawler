@@ -1,0 +1,9 @@
+{
+	"id": "K7wHu64bJz8v4e8",
+	"json": "{\"id\":\"K7wHu64bJz8v4e8\",\"url\":\"https://python.langchain.com/docs/integrations/document_loaders/fauna\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/document_loaders/fauna\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/document_loaders/fauna\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:42.320Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/document_loaders/fauna",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/fauna"
+}

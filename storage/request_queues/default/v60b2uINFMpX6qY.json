@@ -1,0 +1,9 @@
+{
+	"id": "v60b2uINFMpX6qY",
+	"json": "{\"id\":\"v60b2uINFMpX6qY\",\"url\":\"https://python.langchain.com/docs/integrations/chat_loaders/slack\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/chat_loaders/slack\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/chat_loaders/slack\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:41:41.602Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/chat_loaders/slack",
+	"url": "https://python.langchain.com/docs/integrations/chat_loaders/slack"
+}

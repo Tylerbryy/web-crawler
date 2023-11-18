@@ -1,0 +1,9 @@
+{
+	"id": "lEmfh2HjmAJwCQT",
+	"json": "{\"id\":\"lEmfh2HjmAJwCQT\",\"url\":\"https://python.langchain.com/docs/integrations/text_embedding/modelscope_hub\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/text_embedding/modelscope_hub\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/text_embedding/modelscope_hub\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:40:47.014Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/text_embedding/modelscope_hub",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/modelscope_hub"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "Confident AI | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/confident",
+	"html": "ProvidersMoreConfident AI\nConfident AI\n\nDeepEval package for unit testing LLMs. Using Confident, everyone can build robust language models through faster iterations using both unit testing and integration testing. We provide support for each step in the iteration from synthetic data creation to testing.\n\nInstallation and Setup​\n\nFirst, you'll need to install the DeepEval Python package as follows:\n\npip install deepeval\n\n\nAfterwards, you can get started in as little as a few lines of code.\n\nfrom langchain.callbacks import DeepEvalCallback\n\nPrevious\nComet\nNext\nConfluence"
+}

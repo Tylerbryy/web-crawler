@@ -1,0 +1,9 @@
+{
+	"id": "H4uc36vrwQ1CjRj",
+	"json": "{\"id\":\"H4uc36vrwQ1CjRj\",\"url\":\"https://python.langchain.com/docs/modules/model_io/prompts/example_selectors/similarity\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/model_io/prompts/example_selectors/similarity\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/model_io/prompts/example_selectors/similarity\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:37:21.480Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/model_io/prompts/example_selectors/similarity",
+	"url": "https://python.langchain.com/docs/modules/model_io/prompts/example_selectors/similarity"
+}

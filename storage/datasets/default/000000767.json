@@ -1,0 +1,5 @@
+{
+	"title": "spaCy | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/spacy",
+	"html": "ProvidersMorespaCy\nspaCy\n\nspaCy is an open-source software library for advanced natural language processing, written in the programming languages Python and Cython.\n\nInstallation and Setup​\npip install spacy\n\nText Splitter​\n\nSee a usage example.\n\nfrom langchain.text_splitter import SpacyTextSplitter\n\nText Embedding Models​\n\nSee a usage example\n\nfrom langchain.embeddings.spacy_embeddings import SpacyEmbeddings\n\nPrevious\nSlack\nNext\nSpreedly"
+}

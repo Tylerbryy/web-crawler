@@ -1,0 +1,5 @@
+{
+	"title": "Bedrock | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/bedrock",
+	"html": "ComponentsText embedding modelsBedrock\nBedrock\n\nAmazon Bedrock is a fully managed service that makes FMs from leading AI startups and Amazon available via an API, so you can choose from a wide range of FMs to find the model that is best suited for your use case.\n\n%pip install boto3\n\nfrom langchain.embeddings import BedrockEmbeddings\n\nembeddings = BedrockEmbeddings(\n    credentials_profile_name=\"bedrock-admin\", region_name=\"us-east-1\"\n)\n\nembeddings.embed_query(\"This is a content of the document\")\n\nembeddings.embed_documents(\n    [\"This is a content of the document\", \"This is another document\"]\n)\n\n# async embed query\nawait embeddings.aembed_query(\"This is a content of the document\")\n\n# async embed documents\nawait embeddings.aembed_documents(\n    [\"This is a content of the document\", \"This is another document\"]\n)\n\nPrevious\nBaidu Qianfan\nNext\nBGE on Hugging Face"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "bxneA1UnYnXnjHO",
+	"json": "{\"id\":\"bxneA1UnYnXnjHO\",\"url\":\"https://python.langchain.com/docs/modules/model_io/prompts/prompt_templates/custom_prompt_template\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/model_io/prompts/prompt_templates/custom_prompt_template\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/model_io/prompts/prompt_templates/custom_prompt_template\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:41:07.001Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/model_io/prompts/prompt_templates/custom_prompt_template",
+	"url": "https://python.langchain.com/docs/modules/model_io/prompts/prompt_templates/custom_prompt_template"
+}

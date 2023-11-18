@@ -1,0 +1,9 @@
+{
+	"id": "r4UTM060deivLVt",
+	"json": "{\"id\":\"r4UTM060deivLVt\",\"url\":\"https://python.langchain.com/docs/integrations/providers/pgvector\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/providers/pgvector\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/providers/pgvector\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:39:34.029Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/providers/pgvector",
+	"url": "https://python.langchain.com/docs/integrations/providers/pgvector"
+}

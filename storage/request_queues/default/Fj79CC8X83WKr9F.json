@@ -1,0 +1,9 @@
+{
+	"id": "Fj79CC8X83WKr9F",
+	"json": "{\"id\":\"Fj79CC8X83WKr9F\",\"url\":\"https://python.langchain.com/docs/modules/agents/agent_types/structured_chat\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/agents/agent_types/structured_chat\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/agents/agent_types/structured_chat\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:37:38.957Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/agents/agent_types/structured_chat",
+	"url": "https://python.langchain.com/docs/modules/agents/agent_types/structured_chat"
+}

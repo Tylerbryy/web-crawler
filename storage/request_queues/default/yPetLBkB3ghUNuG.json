@@ -1,0 +1,9 @@
+{
+	"id": "yPetLBkB3ghUNuG",
+	"json": "{\"id\":\"yPetLBkB3ghUNuG\",\"url\":\"https://python.langchain.com/docs/integrations/retrievers/elastic_search_bm25\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/retrievers/elastic_search_bm25\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/retrievers/elastic_search_bm25\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:37:26.598Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/retrievers/elastic_search_bm25",
+	"url": "https://python.langchain.com/docs/integrations/retrievers/elastic_search_bm25"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "LanceDB | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/lancedb",
+	"html": "ProvidersMoreLanceDB\nLanceDB\n\nThis page covers how to use LanceDB within LangChain. It is broken into two parts: installation and setup, and then references to specific LanceDB wrappers.\n\nInstallation and Setup​\nInstall the Python SDK with pip install lancedb\nWrappers​\nVectorStore​\n\nThere exists a wrapper around LanceDB databases, allowing you to use it as a vectorstore, whether for semantic search or example selection.\n\nTo import this vectorstore:\n\nfrom langchain.vectorstores import LanceDB\n\n\nFor a more detailed walkthrough of the LanceDB wrapper, see this notebook\n\nPrevious\nKonko\nNext\nLangChain Decorators ✨"
+}

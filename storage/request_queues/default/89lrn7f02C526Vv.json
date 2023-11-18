@@ -1,0 +1,9 @@
+{
+	"id": "89lrn7f02C526Vv",
+	"json": "{\"id\":\"89lrn7f02C526Vv\",\"url\":\"https://python.langchain.com/docs/modules/chains/how_to/openai_functions\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/chains/how_to/openai_functions\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/chains/how_to/openai_functions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:37:12.445Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/chains/how_to/openai_functions",
+	"url": "https://python.langchain.com/docs/modules/chains/how_to/openai_functions"
+}

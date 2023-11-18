@@ -1,0 +1,9 @@
+{
+	"id": "8W6WiU0z9Fv5aau",
+	"json": "{\"id\":\"8W6WiU0z9Fv5aau\",\"url\":\"https://python.langchain.com/docs/integrations/text_embedding/azureopenai\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/text_embedding/azureopenai\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/text_embedding/azureopenai\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:39:02.623Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/text_embedding/azureopenai",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/azureopenai"
+}

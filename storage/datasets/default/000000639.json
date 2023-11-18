@@ -1,0 +1,5 @@
+{
+	"title": "NIBittensor | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/bittensor",
+	"html": "ProvidersMoreNIBittensor\nNIBittensor\n\nThis page covers how to use the BittensorLLM inference runtime within LangChain. It is broken into two parts: installation and setup, and then examples of NIBittensorLLM usage.\n\nInstallation and Setup​\nInstall the Python package with pip install langchain\nWrappers​\nLLM​\n\nThere exists a NIBittensor LLM wrapper, which you can access with:\n\nfrom langchain.llms import NIBittensorLLM\n\n\nIt provides a unified interface for all models:\n\nllm = NIBittensorLLM(system_prompt=\"Your task is to provide concise and accurate response based on user prompt\")\n\nprint(llm('Write a fibonacci function in python with golder ratio'))\n\n\nMultiple responses from top miners can be accessible using the top_responses parameter:\n\nmulti_response_llm = NIBittensorLLM(top_responses=10)\nmulti_resp = multi_response_llm(\"What is Neural Network Feeding Mechanism?\")\njson_multi_resp = json.loads(multi_resp)\n\nprint(json_multi_resp)\n\nPrevious\nBiliBili\nNext\nBlackboard"
+}

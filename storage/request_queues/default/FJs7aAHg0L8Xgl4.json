@@ -1,0 +1,9 @@
+{
+	"id": "FJs7aAHg0L8Xgl4",
+	"json": "{\"id\":\"FJs7aAHg0L8Xgl4\",\"url\":\"https://python.langchain.com/docs/integrations/document_loaders/quip\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/document_loaders/quip\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/document_loaders/quip\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:53.916Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/document_loaders/quip",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/quip"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "r0CwWtCoo5KTuPO",
+	"json": "{\"id\":\"r0CwWtCoo5KTuPO\",\"url\":\"https://python.langchain.com/docs/integrations/document_loaders/rss\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/document_loaders/rss\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/document_loaders/rss\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:55.024Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/document_loaders/rss",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/rss"
+}

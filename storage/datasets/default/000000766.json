@@ -1,0 +1,5 @@
+{
+	"title": "Slack | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/slack",
+	"html": "ProvidersMoreSlack\nSlack\n\nSlack is an instant messaging program.\n\nInstallation and Setup​\n\nThere isn't any special setup for it.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import SlackDirectoryLoader\n\nPrevious\nscikit-learn\nNext\nspaCy"
+}

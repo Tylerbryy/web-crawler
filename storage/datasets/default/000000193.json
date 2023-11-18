@@ -1,0 +1,5 @@
+{
+	"title": "acreom | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/acreom",
+	"html": "ComponentsDocument loadersacreom\nacreom\n\nacreom is a dev-first knowledge base with tasks running on local markdown files.\n\nBelow is an example on how to load a local acreom vault into Langchain. As the local vault in acreom is a folder of plain text .md files, the loader requires the path to the directory.\n\nVault files may contain some metadata which is stored as a YAML header. These values will be added to the document’s metadata if collect_metadata is set to true.\n\nfrom langchain.document_loaders import AcreomLoader\n\nloader = AcreomLoader(\"<path-to-acreom-vault>\", collect_metadata=False)\n\ndocs = loader.load()\n\nPrevious\nDocument loaders\nNext\nAirbyte CDK"
+}

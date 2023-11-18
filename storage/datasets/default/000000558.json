@@ -1,0 +1,5 @@
+{
+	"title": "MosaicML | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/llms/mosaicml",
+	"html": "ComponentsLLMsMosaicML\nMosaicML\n\nMosaicML offers a managed inference service. You can either use a variety of open-source models, or deploy your own.\n\nThis example goes over how to use LangChain to interact with MosaicML Inference for text completion.\n\n# sign up for an account: https://forms.mosaicml.com/demo?utm_source=langchain\n\nfrom getpass import getpass\n\nMOSAICML_API_TOKEN = getpass()\n\nimport os\n\nos.environ[\"MOSAICML_API_TOKEN\"] = MOSAICML_API_TOKEN\n\nfrom langchain.chains import LLMChain\nfrom langchain.llms import MosaicML\nfrom langchain.prompts import PromptTemplate\n\ntemplate = \"\"\"Question: {question}\"\"\"\n\nprompt = PromptTemplate(template=template, input_variables=[\"question\"])\n\nllm = MosaicML(inject_instruction_format=True, model_kwargs={\"max_new_tokens\": 128})\n\nllm_chain = LLMChain(prompt=prompt, llm=llm)\n\nquestion = \"What is one good reason why you should train a large language model on domain specific data?\"\n\nllm_chain.run(question)\n\nPrevious\nModal\nNext\nNLP Cloud"
+}

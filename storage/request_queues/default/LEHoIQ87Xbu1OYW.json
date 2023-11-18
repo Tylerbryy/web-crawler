@@ -1,0 +1,9 @@
+{
+	"id": "LEHoIQ87Xbu1OYW",
+	"json": "{\"id\":\"LEHoIQ87Xbu1OYW\",\"url\":\"https://python.langchain.com/docs/integrations/text_embedding/bedrock\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/text_embedding/bedrock\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/text_embedding/bedrock\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:39:01.886Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/text_embedding/bedrock",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/bedrock"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "YouTube | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/youtube",
+	"html": "ProvidersMoreYouTube\nYouTube\n\nYouTube is an online video sharing and social media platform by Google. We download the YouTube transcripts and video information.\n\nInstallation and Setup​\npip install youtube-transcript-api\npip install pytube\n\n\nSee a usage example.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import YoutubeLoader\nfrom langchain.document_loaders import GoogleApiYoutubeLoader\n\nPrevious\nYeager.ai\nNext\nZep"
+}

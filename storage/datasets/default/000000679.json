@@ -1,0 +1,5 @@
+{
+	"title": "GitBook | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/gitbook",
+	"html": "ProvidersMoreGitBook\nGitBook\n\nGitBook is a modern documentation platform where teams can document everything from products to internal knowledge bases and APIs.\n\nInstallation and Setup​\n\nThere isn't any special setup for it.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import GitbookLoader\n\nPrevious\nGit\nNext\nGolden"
+}

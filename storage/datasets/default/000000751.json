@@ -1,0 +1,5 @@
+{
+	"title": "Reddit | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/reddit",
+	"html": "ProvidersMoreReddit\nReddit\n\nReddit is an American social news aggregation, content rating, and discussion website.\n\nInstallation and Setup​\n\nFirst, you need to install a python package.\n\npip install praw\n\n\nMake a Reddit Application and initialize the loader with your Reddit API credentials.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import RedditPostsLoader\n\nPrevious\nRebuff\nNext\nRedis"
+}

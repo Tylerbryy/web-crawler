@@ -1,0 +1,9 @@
+{
+	"id": "c2yB2mKs8rbfU8L",
+	"json": "{\"id\":\"c2yB2mKs8rbfU8L\",\"url\":\"https://python.langchain.com/docs/integrations/retrievers/cohere-reranker\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/retrievers/cohere-reranker\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/retrievers/cohere-reranker\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:37:26.440Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/retrievers/cohere-reranker",
+	"url": "https://python.langchain.com/docs/integrations/retrievers/cohere-reranker"
+}

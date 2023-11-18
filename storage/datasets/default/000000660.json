@@ -1,0 +1,5 @@
+{
+	"title": "DeepInfra | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/deepinfra",
+	"html": "ProvidersMoreDeepInfra\nDeepInfra\n\nThis page covers how to use the DeepInfra ecosystem within LangChain. It is broken into two parts: installation and setup, and then references to specific DeepInfra wrappers.\n\nInstallation and Setup​\nGet your DeepInfra api key from this link here.\nGet an DeepInfra api key and set it as an environment variable (DEEPINFRA_API_TOKEN)\nAvailable Models​\n\nDeepInfra provides a range of Open Source LLMs ready for deployment. You can list supported models for text-generation and embeddings. google/flan* models can be viewed here.\n\nYou can view a list of request and response parameters.\n\nWrappers​\nLLM​\n\nThere exists an DeepInfra LLM wrapper, which you can access with\n\nfrom langchain.llms import DeepInfra\n\nEmbeddings​\n\nThere is also an DeepInfra Embeddings wrapper, you can access with\n\nfrom langchain.embeddings import DeepInfraEmbeddings\n\nPrevious\nDataForSEO\nNext\nDeepSparse"
+}

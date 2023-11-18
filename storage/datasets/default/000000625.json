@@ -1,0 +1,5 @@
+{
+	"title": "Argilla | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/argilla",
+	"html": "ProvidersMoreArgilla\nArgilla\n\nArgilla is an open-source data curation platform for LLMs. Using Argilla, everyone can build robust language models through faster data curation using both human and machine feedback. We provide support for each step in the MLOps cycle, from data labelling to model monitoring.\n\nInstallation and Setup​\n\nFirst, you'll need to install the argilla Python package as follows:\n\npip install argilla --upgrade\n\n\nIf you already have an Argilla Server running, then you're good to go; but if you don't, follow the next steps to install it.\n\nIf you don't you can refer to Argilla - 🚀 Quickstart to deploy Argilla either on HuggingFace Spaces, locally, or on a server.\n\nTracking​\n\nSee a usage example of ArgillaCallbackHandler.\n\nfrom langchain.callbacks import ArgillaCallbackHandler\n\nPrevious\nArangoDB\nNext\nArthur"
+}

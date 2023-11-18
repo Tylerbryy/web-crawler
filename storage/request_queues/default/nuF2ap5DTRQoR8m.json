@@ -1,0 +1,9 @@
+{
+	"id": "nuF2ap5DTRQoR8m",
+	"json": "{\"id\":\"nuF2ap5DTRQoR8m\",\"url\":\"https://python.langchain.com/docs/modules/agents/agent_types/openai_tools\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/agents/agent_types/openai_tools\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/agents/agent_types/openai_tools\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:37:37.797Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/agents/agent_types/openai_tools",
+	"url": "https://python.langchain.com/docs/modules/agents/agent_types/openai_tools"
+}

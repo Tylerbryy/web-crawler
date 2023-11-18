@@ -1,0 +1,5 @@
+{
+	"title": "Example selectors | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/modules/model_io/prompts/example_selectors/",
+	"html": "ModulesModel I/OPromptsExample selectors\nExample selectors\n\nIf you have a large number of examples, you may need to select which ones to include in the prompt. The Example Selector is the class responsible for doing so.\n\nThe base interface is defined as below:\n\nclass BaseExampleSelector(ABC):\n    \"\"\"Interface for selecting examples to include in prompts.\"\"\"\n\n    @abstractmethod\n    def select_examples(self, input_variables: Dict[str, str]) -> List[dict]:\n        \"\"\"Select which examples to use based on the inputs.\"\"\"\n\n\nThe only method it needs to define is a select_examples method. This takes in the input variables and then returns a list of examples. It is up to each specific implementation as to how those examples are selected.\n\nPrevious\nValidate template\nNext\nCustom example selector"
+}

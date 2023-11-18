@@ -1,0 +1,5 @@
+{
+	"title": "Datetime parser | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/modules/model_io/output_parsers/datetime",
+	"html": "ModulesModel I/OOutput parsersDatetime parser\nDatetime parser\n\nThis OutputParser can be used to parse LLM output into datetime format.\n\nfrom langchain.chains import LLMChain\nfrom langchain.llms import OpenAI\nfrom langchain.output_parsers import DatetimeOutputParser\nfrom langchain.prompts import PromptTemplate\n\noutput_parser = DatetimeOutputParser()\ntemplate = \"\"\"Answer the users question:\n\n{question}\n\n{format_instructions}\"\"\"\nprompt = PromptTemplate.from_template(\n    template,\n    partial_variables={\"format_instructions\": output_parser.get_format_instructions()},\n)\n\nchain = LLMChain(prompt=prompt, llm=OpenAI())\n\noutput = chain.run(\"around when was bitcoin founded?\")\n\noutput\n\n    '\\n\\n2008-01-03T18:15:05.000000Z'\n\noutput_parser.parse(output)\n\n    datetime.datetime(2008, 1, 3, 18, 15, 5)\n\nPrevious\nList parser\nNext\nEnum parser"
+}

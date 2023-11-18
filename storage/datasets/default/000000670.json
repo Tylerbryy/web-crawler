@@ -1,0 +1,5 @@
+{
+	"title": "Epsilla | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/epsilla",
+	"html": "ProvidersMoreEpsilla\nEpsilla\n\nThis page covers how to use Epsilla within LangChain. It is broken into two parts: installation and setup, and then references to specific Epsilla wrappers.\n\nInstallation and Setup​\nInstall the Python SDK with pip/pip3 install pyepsilla\nWrappers​\nVectorStore​\n\nThere exists a wrapper around Epsilla vector databases, allowing you to use it as a vectorstore, whether for semantic search or example selection.\n\nTo import this vectorstore:\n\nfrom langchain.vectorstores import Epsilla\n\n\nFor a more detailed walkthrough of the Epsilla wrapper, see this notebook\n\nPrevious\nElasticsearch\nNext\nEverNote"
+}

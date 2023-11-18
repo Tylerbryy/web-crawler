@@ -1,0 +1,9 @@
+{
+	"id": "lYomkBP2LVfTLZC",
+	"json": "{\"id\":\"lYomkBP2LVfTLZC\",\"url\":\"https://python.langchain.com/docs/modules/memory/types/summary\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/memory/types/summary\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/memory/types/summary\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:41:12.116Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/memory/types/summary",
+	"url": "https://python.langchain.com/docs/modules/memory/types/summary"
+}

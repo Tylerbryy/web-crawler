@@ -1,0 +1,5 @@
+{
+	"title": "Metal | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/metal",
+	"html": "ProvidersMoreMetal\nMetal\n\nThis page covers how to use Metal within LangChain.\n\nWhat is Metal?​\n\nMetal is a managed retrieval & memory platform built for production. Easily index your data into Metal and run semantic search and retrieval on it.\n\nQuick start​\n\nGet started by creating a Metal account.\n\nThen, you can easily take advantage of the MetalRetriever class to start retrieving your data for semantic search, prompting context, etc. This class takes a Metal instance and a dictionary of parameters to pass to the Metal API.\n\nfrom langchain.retrievers import MetalRetriever\nfrom metal_sdk.metal import Metal\n\n\nmetal = Metal(\"API_KEY\", \"CLIENT_ID\", \"INDEX_ID\");\nretriever = MetalRetriever(metal, params={\"limit\": 2})\n\ndocs = retriever.get_relevant_documents(\"search term\")\n\nPrevious\nMeilisearch\nNext\nMilvus"
+}

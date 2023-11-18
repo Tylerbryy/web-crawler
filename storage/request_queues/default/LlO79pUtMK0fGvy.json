@@ -1,0 +1,9 @@
+{
+	"id": "LlO79pUtMK0fGvy",
+	"json": "{\"id\":\"LlO79pUtMK0fGvy\",\"url\":\"https://python.langchain.com/docs/modules/agents/agent_types/\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/agents/agent_types/\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/agents/agent_types\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:17.132Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/agents/agent_types",
+	"url": "https://python.langchain.com/docs/modules/agents/agent_types/"
+}

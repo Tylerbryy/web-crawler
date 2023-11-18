@@ -1,0 +1,5 @@
+{
+	"title": "Baseten | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/baseten",
+	"html": "ProvidersMoreBaseten\nBaseten\n\nLearn how to use LangChain with models deployed on Baseten.\n\nInstallation and setup​\nCreate a Baseten account and API key.\nInstall the Baseten Python client with pip install baseten\nUse your API key to authenticate with baseten login\nInvoking a model​\n\nBaseten integrates with LangChain through the LLM module, which provides a standardized and interoperable interface for models that are deployed on your Baseten workspace.\n\nYou can deploy foundation models like WizardLM and Alpaca with one click from the Baseten model library or if you have your own model, deploy it with this tutorial.\n\nIn this example, we'll work with WizardLM. Deploy WizardLM here and follow along with the deployed model's version ID.\n\nfrom langchain.llms import Baseten\n\nwizardlm = Baseten(model=\"MODEL_VERSION_ID\", verbose=True)\n\nwizardlm(\"What is the difference between a Wizard and a Sorcerer?\")\n\nPrevious\nBanana\nNext\nBeam"
+}

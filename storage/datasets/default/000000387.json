@@ -1,0 +1,5 @@
+{
+	"title": "How to | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/modules/chains/how_to/",
+	"html": "ModulesMoreChainsHow to\nHow to\n📄️ Async API\n\nLangChain provides async support by leveraging the asyncio library.\n\n📄️ Different call methods\n\nAll classes inherited from Chain offer a few ways of running chain logic. The most direct one is by using call:\n\n📄️ Custom chain\n\nTo implement your own custom chain you can subclass Chain and implement the following methods:\n\n📄️ Adding memory (state)\n\nChains can be initialized with a Memory object, which will persist data across calls to the chain. This makes a Chain stateful.\n\n📄️ Using OpenAI functions\n\nThis walkthrough demonstrates how to incorporate OpenAI function-calling API's in a chain. We'll go over:\n\nPrevious\nChains\nNext\nAsync API"
+}

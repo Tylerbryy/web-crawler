@@ -1,0 +1,53 @@
+{
+  "requestsFinished": 1066,
+  "requestsFailed": 58,
+  "requestsRetries": 58,
+  "requestsFailedPerMinute": 7,
+  "requestsFinishedPerMinute": 145,
+  "requestMinDurationMillis": 508,
+  "requestMaxDurationMillis": 7070,
+  "requestTotalFailedDurationMillis": 178757,
+  "requestTotalFinishedDurationMillis": 1845272,
+  "crawlerStartedAt": "2023-11-18T16:35:36.366Z",
+  "crawlerFinishedAt": "2023-11-18T16:42:56.865Z",
+  "statsPersistedAt": "2023-11-18T16:42:56.865Z",
+  "crawlerRuntimeMillis": 440580,
+  "crawlerLastStartTimestamp": 1700325336285,
+  "requestRetryHistogram": [
+    1066,
+    null,
+    null,
+    58
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": 3082,
+  "requestAvgFinishedDurationMillis": 1731,
+  "requestTotalDurationMillis": 2024029,
+  "requestsTotal": 1124,
+  "requestsWithStatusCode": {
+    "200": 1133,
+    "404": 165
+  },
+  "errors": {
+    "/Users/tylergibbs/Desktop/web-crawler/src/main.ts:35:18": {
+      "missing error code": {
+        "TimeoutError": {
+          "page.waitForSelector: Timeout 2000ms exceeded.": {
+            "count": 58
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "/Users/tylergibbs/Desktop/web-crawler/src/main.ts:35:18": {
+      "missing error code": {
+        "TimeoutError": {
+          "page.waitForSelector: Timeout 2000ms exceeded.": {
+            "count": 174
+          }
+        }
+      }
+    }
+  }
+}

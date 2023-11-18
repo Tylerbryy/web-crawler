@@ -1,0 +1,5 @@
+{
+	"title": "Neo4j | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/memory/neo4j_chat_message_history",
+	"html": "ComponentsMemoryNeo4j\nNeo4j\n\nNeo4j is an open-source graph database management system, renowned for its efficient management of highly connected data. Unlike traditional databases that store data in tables, Neo4j uses a graph structure with nodes, edges, and properties to represent and store data. This design allows for high-performance queries on complex data relationships.\n\nThis notebook goes over how to use Neo4j to store chat message history.\n\nfrom langchain.memory import Neo4jChatMessageHistory\n\nhistory = Neo4jChatMessageHistory(\n    url=\"bolt://localhost:7687\",\n    username=\"neo4j\",\n    password=\"password\",\n    session_id=\"session_id_1\",\n)\n\nhistory.add_user_message(\"hi!\")\n\nhistory.add_ai_message(\"whats up?\")\n\nhistory.messages\n\nPrevious\nMotörhead\nNext\nPostgres"
+}

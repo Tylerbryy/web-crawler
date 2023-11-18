@@ -1,0 +1,5 @@
+{
+	"title": "Chroma | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/chroma",
+	"html": "ProvidersMoreChroma\nChroma\n\nChroma is a database for building AI applications with embeddings.\n\nInstallation and Setup​\npip install chromadb\n\nVectorStore​\n\nThere exists a wrapper around Chroma vector databases, allowing you to use it as a vectorstore, whether for semantic search or example selection.\n\nfrom langchain.vectorstores import Chroma\n\n\nFor a more detailed walkthrough of the Chroma wrapper, see this notebook\n\nRetriever​\n\nSee a usage example.\n\nfrom langchain.retrievers import SelfQueryRetriever\n\nPrevious\nChaindesk\nNext\nClarifai"
+}

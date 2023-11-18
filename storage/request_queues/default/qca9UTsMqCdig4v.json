@@ -1,0 +1,9 @@
+{
+	"id": "qca9UTsMqCdig4v",
+	"json": "{\"id\":\"qca9UTsMqCdig4v\",\"url\":\"https://python.langchain.com/docs/integrations/providers/confluence\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/providers/confluence\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/providers/confluence\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:39:15.036Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/providers/confluence",
+	"url": "https://python.langchain.com/docs/integrations/providers/confluence"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "Azure Blob Storage File | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/azure_blob_storage_file",
+	"html": "ComponentsDocument loadersAzure Blob Storage File\nAzure Blob Storage File\n\nAzure Files offers fully managed file shares in the cloud that are accessible via the industry standard Server Message Block (SMB) protocol, Network File System (NFS) protocol, and Azure Files REST API.\n\nThis covers how to load document objects from a Azure Files.\n\n#!pip install azure-storage-blob\n\nfrom langchain.document_loaders import AzureBlobStorageFileLoader\n\nloader = AzureBlobStorageFileLoader(\n    conn_str=\"<connection string>\",\n    container=\"<container name>\",\n    blob_name=\"<blob name>\",\n)\n\nloader.load()\n\n    [Document(page_content='Lorem ipsum dolor sit amet.', lookup_str='', metadata={'source': '/var/folders/y6/8_bzdg295ld6s1_97_12m4lr0000gn/T/tmpxvave6wl/fake.docx'}, lookup_index=0)]\n\nPrevious\nAzure Blob Storage Container\nNext\nAzure Document Intelligence"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "Llama.cpp | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/llamacpp",
+	"html": "ProvidersMoreLlama.cpp\nLlama.cpp\n\nThis page covers how to use llama.cpp within LangChain. It is broken into two parts: installation and setup, and then references to specific Llama-cpp wrappers.\n\nInstallation and Setup​\nInstall the Python package with pip install llama-cpp-python\nDownload one of the supported models and convert them to the llama.cpp format per the instructions\nWrappers​\nLLM​\n\nThere exists a LlamaCpp LLM wrapper, which you can access with\n\nfrom langchain.llms import LlamaCpp\n\n\nFor a more detailed walkthrough of this, see this notebook\n\nEmbeddings​\n\nThere exists a LlamaCpp Embeddings wrapper, which you can access with\n\nfrom langchain.embeddings import LlamaCppEmbeddings\n\n\nFor a more detailed walkthrough of this, see this notebook\n\nPrevious\nLangChain Decorators ✨\nNext\nLog10"
+}

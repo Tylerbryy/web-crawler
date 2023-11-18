@@ -1,0 +1,5 @@
+{
+	"title": "DocArray | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/docarray",
+	"html": "ProvidersMoreDocArray\nDocArray\n\nDocArray is a library for nested, unstructured, multimodal data in transit, including text, image, audio, video, 3D mesh, etc. It allows deep-learning engineers to efficiently process, embed, search, recommend, store, and transfer multimodal data with a Pythonic API.\n\nInstallation and Setup​\n\nWe need to install docarray python package.\n\npip install docarray\n\nVector Store​\n\nLangChain provides an access to the In-memory and HNSW vector stores from the DocArray library.\n\nSee a usage example.\n\nfrom langchain.vectorstores DocArrayHnswSearch\n\n\nSee a usage example.\n\nfrom langchain.vectorstores DocArrayInMemorySearch\n\nPrevious\nDiscord\nNext\nDoctran"
+}

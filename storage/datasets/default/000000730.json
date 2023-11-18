@@ -1,0 +1,5 @@
+{
+	"title": "Obsidian | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/obsidian",
+	"html": "ProvidersMoreObsidian\nObsidian\n\nObsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.\n\nInstallation and Setup​\n\nAll instructions are in examples below.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import ObsidianLoader\n\nPrevious\nNuclia\nNext\nOpenLLM"
+}

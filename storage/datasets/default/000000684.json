@@ -1,0 +1,5 @@
+{
+	"title": "Gradient | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/gradient",
+	"html": "ProvidersMoreGradient\nGradient\n\nGradient allows to fine tune and get completions on LLMs with a simple web API.\n\nInstallation and Setup​\nInstall the Python SDK :\npip install gradientai\n\n\nGet a Gradient access token and workspace and set it as an environment variable (Gradient_ACCESS_TOKEN) and (GRADIENT_WORKSPACE_ID)\n\nLLM​\n\nThere exists an Gradient LLM wrapper, which you can access with See a usage example.\n\nfrom langchain.llms import GradientLLM\n\nText Embedding Model​\n\nThere exists an Gradient Embedding model, which you can access with\n\nfrom langchain.embeddings import GradientEmbeddings\n\n\nFor a more detailed walkthrough of this, see this notebook\n\nPrevious\nGPT4All\nNext\nGraphsignal"
+}

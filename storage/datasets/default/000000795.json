@@ -1,0 +1,5 @@
+{
+	"title": "Wikipedia | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/wikipedia",
+	"html": "ProvidersMoreWikipedia\nWikipedia\n\nWikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers, known as Wikipedians, through open collaboration and using a wiki-based editing system called MediaWiki. Wikipedia is the largest and most-read reference work in history.\n\nInstallation and Setup​\npip install wikipedia\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import WikipediaLoader\n\nRetriever​\n\nSee a usage example.\n\nfrom langchain.retrievers import WikipediaRetriever\n\nPrevious\nWhyLabs\nNext\nWolfram Alpha"
+}

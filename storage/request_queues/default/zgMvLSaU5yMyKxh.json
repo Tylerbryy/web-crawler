@@ -1,0 +1,9 @@
+{
+	"id": "zgMvLSaU5yMyKxh",
+	"json": "{\"id\":\"zgMvLSaU5yMyKxh\",\"url\":\"https://python.langchain.com/docs/integrations/document_loaders/alibaba_cloud_maxcompute\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/document_loaders/alibaba_cloud_maxcompute\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/document_loaders/alibaba_cloud_maxcompute\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:33.756Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/document_loaders/alibaba_cloud_maxcompute",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/alibaba_cloud_maxcompute"
+}

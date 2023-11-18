@@ -1,0 +1,5 @@
+{
+	"title": "Predibase | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/predibase",
+	"html": "ProvidersMorePredibase\nPredibase\n\nLearn how to use LangChain with models on Predibase.\n\nSetup​\nCreate a Predibase account and API key.\nInstall the Predibase Python client with pip install predibase\nUse your API key to authenticate\nLLM​\n\nPredibase integrates with LangChain by implementing LLM module. You can see a short example below or a full notebook under LLM > Integrations > Predibase.\n\nimport os\nos.environ[\"PREDIBASE_API_TOKEN\"] = \"{PREDIBASE_API_TOKEN}\"\n\nfrom langchain.llms import Predibase\n\nmodel =  Predibase(model = 'vicuna-13b', predibase_api_key=os.environ.get('PREDIBASE_API_TOKEN'))\n\nresponse = model(\"Can you recommend me a nice dry wine?\")\nprint(response)\n\nPrevious\nLog, Trace, and Monitor\nNext\nPrediction Guard"
+}

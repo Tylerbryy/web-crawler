@@ -1,0 +1,5 @@
+{
+	"title": "EverNote | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/evernote",
+	"html": "ProvidersMoreEverNote\nEverNote\n\nEverNote is intended for archiving and creating notes in which photos, audio and saved web content can be embedded. Notes are stored in virtual \"notebooks\" and can be tagged, annotated, edited, searched, and exported.\n\nInstallation and Setup​\n\nFirst, you need to install lxml and html2text python packages.\n\npip install lxml\npip install html2text\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import EverNoteLoader\n\nPrevious\nEpsilla\nNext\nFacebook Chat"
+}

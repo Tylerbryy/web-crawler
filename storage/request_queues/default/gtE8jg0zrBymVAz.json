@@ -1,0 +1,9 @@
+{
+	"id": "gtE8jg0zrBymVAz",
+	"json": "{\"id\":\"gtE8jg0zrBymVAz\",\"url\":\"https://python.langchain.com/docs/integrations/providers/grobid\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/providers/grobid\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/providers/grobid\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:39:22.994Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/providers/grobid",
+	"url": "https://python.langchain.com/docs/integrations/providers/grobid"
+}

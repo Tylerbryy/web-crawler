@@ -1,0 +1,5 @@
+{
+	"title": "AWS S3 File | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/aws_s3_file",
+	"html": "ComponentsDocument loadersAWS S3 File\nAWS S3 File\n\nAmazon Simple Storage Service (Amazon S3) is an object storage service.\n\nAWS S3 Buckets\n\nThis covers how to load document objects from an AWS S3 File object.\n\nfrom langchain.document_loaders import S3FileLoader\n\n#!pip install boto3\n\nloader = S3FileLoader(\"testing-hwc\", \"fake.docx\")\n\nloader.load()\n\n    [Document(page_content='Lorem ipsum dolor sit amet.', lookup_str='', metadata={'source': 's3://testing-hwc/fake.docx'}, lookup_index=0)]\n\nConfiguring the AWS Boto3 client​\n\nYou can configure the AWS Boto3 client by passing named arguments when creating the S3DirectoryLoader. This is useful for instance when AWS credentials can't be set as environment variables. See the list of parameters that can be configured.\n\nloader = S3FileLoader(\n    \"testing-hwc\", \"fake.docx\", aws_access_key_id=\"xxxx\", aws_secret_access_key=\"yyyy\"\n)\n\nloader.load()\n\nPrevious\nAWS S3 Directory\nNext\nAZLyrics"
+}

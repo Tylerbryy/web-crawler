@@ -1,0 +1,5 @@
+{
+	"title": "NLPCloud | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/nlpcloud",
+	"html": "ProvidersMoreNLPCloud\nNLPCloud\n\nNLP Cloud is an artificial intelligence platform that allows you to use the most advanced AI engines, and even train your own engines with your own data.\n\nInstallation and Setup​\nInstall the nlpcloud package.\npip install nlpcloud\n\nGet an NLPCloud api key and set it as an environment variable (NLPCLOUD_API_KEY)\nLLM​\n\nSee a usage example.\n\nfrom langchain.llms import NLPCloud\n\nText Embedding Models​\n\nSee a usage example\n\nfrom langchain.embeddings import NLPCloudEmbeddings\n\nPrevious\nNeo4j\nNext\nNotion DB"
+}

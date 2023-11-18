@@ -1,0 +1,5 @@
+{
+	"title": "Obsidian | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/obsidian",
+	"html": "ComponentsDocument loadersObsidian\nObsidian\n\nObsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.\n\nThis notebook covers how to load documents from an Obsidian database.\n\nSince Obsidian is just stored on disk as a folder of Markdown files, the loader just takes a path to this directory.\n\nObsidian files also sometimes contain metadata which is a YAML block at the top of the file. These values will be added to the document's metadata. (ObsidianLoader can also be passed a collect_metadata=False argument to disable this behavior.)\n\nfrom langchain.document_loaders import ObsidianLoader\n\nloader = ObsidianLoader(\"<path-to-obsidian>\")\n\ndocs = loader.load()\n\nPrevious\nNuclia\nNext\nOpen Document Format (ODT)"
+}

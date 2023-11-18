@@ -1,0 +1,5 @@
+{
+	"title": "Merge Documents Loader | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/merge_doc",
+	"html": "ComponentsDocument loadersMerge Documents Loader\nMerge Documents Loader\n\nMerge the documents returned from a set of specified data loaders.\n\nfrom langchain.document_loaders import WebBaseLoader\n\nloader_web = WebBaseLoader(\n    \"https://github.com/basecamp/handbook/blob/master/37signals-is-you.md\"\n)\n\nfrom langchain.document_loaders import PyPDFLoader\n\nloader_pdf = PyPDFLoader(\"../MachineLearning-Lecture01.pdf\")\n\nfrom langchain.document_loaders.merge import MergedDataLoader\n\nloader_all = MergedDataLoader(loaders=[loader_web, loader_pdf])\n\ndocs_all = loader_all.load()\n\nlen(docs_all)\n\n    23\n\nPrevious\nMediaWiki Dump\nNext\nmhtml"
+}

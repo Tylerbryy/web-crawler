@@ -1,0 +1,9 @@
+{
+	"id": "Ki04KlnAI35p9hC",
+	"json": "{\"id\":\"Ki04KlnAI35p9hC\",\"url\":\"https://python.langchain.com/docs/integrations/text_embedding/minimax\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/text_embedding/minimax\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/text_embedding/minimax\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:40:46.956Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/text_embedding/minimax",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/minimax"
+}

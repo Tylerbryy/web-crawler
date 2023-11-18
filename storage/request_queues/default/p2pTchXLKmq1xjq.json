@@ -1,0 +1,9 @@
+{
+	"id": "p2pTchXLKmq1xjq",
+	"json": "{\"id\":\"p2pTchXLKmq1xjq\",\"url\":\"https://python.langchain.com/docs/integrations/tools/google_serper\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/tools/google_serper\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/tools/google_serper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:39:05.512Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/tools/google_serper",
+	"url": "https://python.langchain.com/docs/integrations/tools/google_serper"
+}

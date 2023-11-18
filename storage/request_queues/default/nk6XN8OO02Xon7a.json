@@ -1,0 +1,9 @@
+{
+	"id": "nk6XN8OO02Xon7a",
+	"json": "{\"id\":\"nk6XN8OO02Xon7a\",\"url\":\"https://python.langchain.com/docs/guides/evaluation/comparison/pairwise_embedding_distance\",\"loadedUrl\":\"https://python.langchain.com/docs/guides/evaluation/comparison/pairwise_embedding_distance\",\"uniqueKey\":\"https://python.langchain.com/docs/guides/evaluation/comparison/pairwise_embedding_distance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:40:24.499Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/guides/evaluation/comparison/pairwise_embedding_distance",
+	"url": "https://python.langchain.com/docs/guides/evaluation/comparison/pairwise_embedding_distance"
+}

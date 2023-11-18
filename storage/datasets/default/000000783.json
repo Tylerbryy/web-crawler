@@ -1,0 +1,5 @@
+{
+	"title": "Typesense | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/typesense",
+	"html": "ProvidersMoreTypesense\nTypesense\n\nTypesense is an open-source, in-memory search engine, that you can either self-host or run on Typesense Cloud. Typesense focuses on performance by storing the entire index in RAM (with a backup on disk) and also focuses on providing an out-of-the-box developer experience by simplifying available options and setting good defaults.\n\nInstallation and Setup​\npip install typesense openapi-schema-pydantic openai tiktoken\n\nVector Store​\n\nSee a usage example.\n\nfrom langchain.vectorstores import Typesense\n\nPrevious\nTwitter\nNext\nUnstructured"
+}

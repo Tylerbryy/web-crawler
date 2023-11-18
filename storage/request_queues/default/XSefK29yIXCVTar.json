@@ -1,0 +1,9 @@
+{
+	"id": "XSefK29yIXCVTar",
+	"json": "{\"id\":\"XSefK29yIXCVTar\",\"url\":\"https://python.langchain.com/docs/modules/model_io/prompts/prompt_templates/format_output\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/model_io/prompts/prompt_templates/format_output\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/model_io/prompts/prompt_templates/format_output\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:41:08.233Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/model_io/prompts/prompt_templates/format_output",
+	"url": "https://python.langchain.com/docs/modules/model_io/prompts/prompt_templates/format_output"
+}

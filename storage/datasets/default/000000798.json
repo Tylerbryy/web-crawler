@@ -1,0 +1,5 @@
+{
+	"title": "Xata | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/xata",
+	"html": "ProvidersMoreXata\nXata\n\nXata is a serverless data platform, based on PostgreSQL. It provides a Python SDK for interacting with your database, and a UI for managing your data. Xata has a native vector type, which can be added to any table, and supports similarity search. LangChain inserts vectors directly to Xata, and queries it for the nearest neighbors of a given vector, so that you can use all the LangChain Embeddings integrations with Xata.\n\nInstallation and Setup​\n\nWe need to install xata python package.\n\npip install xata==1.0.0a7 \n\nVector Store​\n\nSee a usage example.\n\nfrom langchain.vectorstores import XataVectorStore\n\nPrevious\nWriter\nNext\nXorbits Inference (Xinference)"
+}

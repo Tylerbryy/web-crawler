@@ -1,0 +1,5 @@
+{
+	"title": "Salute Devices | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/salute_devices",
+	"html": "ProvidersMoreSalute Devices\nSalute Devices\n\nSalute Devices provides GigaChat LLM's models.\n\nFor more info how to get access to GigaChat follow here.\n\nInstallation and Setup​\n\nGigaChat package can be installed via pip from PyPI:\n\npip install gigachat\n\nLLMs​\n\nSee a usage example.\n\nfrom langchain.llms import GigaChat\n\nChat models​\n\nSee a usage example.\n\nfrom langchain.chat_models import GigaChat\n\nPrevious\nRWKV-4\nNext\nScaNN"
+}

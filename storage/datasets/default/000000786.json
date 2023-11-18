@@ -1,0 +1,5 @@
+{
+	"title": "USearch | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/usearch",
+	"html": "ProvidersMoreUSearch\nUSearch\n\nUSearch is a Smaller & Faster Single-File Vector Search Engine.\n\nUSearch's base functionality is identical to FAISS, and the interface should look familiar if you have ever investigated Approximate Nearest Neighbors search. USearch and FAISS both employ HNSW algorithm, but they differ significantly in their design principles. USearch is compact and broadly compatible with FAISS without sacrificing performance, with a primary focus on user-defined metrics and fewer dependencies.\n\nInstallation and Setup​\n\nWe need to install usearch python package.\n\npip install usearch\n\nVector Store​\n\nSee a usage example.\n\nfrom langchain.vectorstores import USearch\n\nPrevious\nUpstash Redis\nNext\nVearch"
+}

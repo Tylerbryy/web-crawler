@@ -1,0 +1,5 @@
+{
+	"title": "Validate template | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/modules/model_io/prompts/prompt_templates/validate",
+	"html": "ModulesModel I/OPromptsPrompt templatesValidate template\nValidate template\n\nBy default, PromptTemplate will validate the template string by checking whether the input_variables match the variables defined in template. You can disable this behavior by setting validate_template to False.\n\ntemplate = \"I am learning langchain because {reason}.\"\n\nprompt_template = PromptTemplate(template=template,\n                                 input_variables=[\"reason\", \"foo\"]) # ValueError due to extra variables\nprompt_template = PromptTemplate(template=template,\n                                 input_variables=[\"reason\", \"foo\"],\n                                 validate_template=False) # No error\n\nPrevious\nPrompt pipelining\nNext\nExample selectors"
+}

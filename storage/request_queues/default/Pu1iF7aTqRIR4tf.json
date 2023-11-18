@@ -1,0 +1,9 @@
+{
+	"id": "Pu1iF7aTqRIR4tf",
+	"json": "{\"id\":\"Pu1iF7aTqRIR4tf\",\"url\":\"https://python.langchain.com/docs/integrations/providers/deepsparse\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/providers/deepsparse\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/providers/deepsparse\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:39:17.224Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/providers/deepsparse",
+	"url": "https://python.langchain.com/docs/integrations/providers/deepsparse"
+}

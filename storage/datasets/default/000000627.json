@@ -1,0 +1,5 @@
+{
+	"title": "Arxiv | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/arxiv",
+	"html": "ProvidersMoreArxiv\nArxiv\n\narXiv is an open-access archive for 2 million scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.\n\nInstallation and Setup​\n\nFirst, you need to install arxiv python package.\n\npip install arxiv\n\n\nSecond, you need to install PyMuPDF python package which transforms PDF files downloaded from the arxiv.org site into the text format.\n\npip install pymupdf\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import ArxivLoader\n\nRetriever​\n\nSee a usage example.\n\nfrom langchain.retrievers import ArxivRetriever\n\nPrevious\nArthur\nNext\nAstra DB"
+}

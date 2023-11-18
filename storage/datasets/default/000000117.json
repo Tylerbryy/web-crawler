@@ -1,0 +1,5 @@
+{
+	"title": "Prompts | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/modules/model_io/prompts",
+	"html": "ModulesModel I/OPrompts\nPrompts\n\nA prompt for a language model is a set of instructions or input provided by a user to guide the model's response, helping it understand the context and generate relevant and coherent language-based output, such as answering questions, completing sentences, or engaging in a conversation.\n\nLangChain provides several classes and functions to help construct and work with prompts.\n\nPrompt templates: Parametrized model inputs\nExample selectors: Dynamically select examples to include in prompts\nPrevious\nModel I/O\nNext\nPrompt templates"
+}

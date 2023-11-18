@@ -1,0 +1,9 @@
+{
+	"id": "6fR1OqYghNN42PO",
+	"json": "{\"id\":\"6fR1OqYghNN42PO\",\"url\":\"https://python.langchain.com/docs/integrations/document_loaders/copypaste\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/document_loaders/copypaste\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/document_loaders/copypaste\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:38.214Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/document_loaders/copypaste",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/copypaste"
+}

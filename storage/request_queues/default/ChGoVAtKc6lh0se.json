@@ -1,0 +1,9 @@
+{
+	"id": "ChGoVAtKc6lh0se",
+	"json": "{\"id\":\"ChGoVAtKc6lh0se\",\"url\":\"https://python.langchain.com/docs/modules/agents/how_to/add_memory_openai_functions\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/agents/how_to/add_memory_openai_functions\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/agents/how_to/add_memory_openai_functions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:40:37.923Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/agents/how_to/add_memory_openai_functions",
+	"url": "https://python.langchain.com/docs/modules/agents/how_to/add_memory_openai_functions"
+}

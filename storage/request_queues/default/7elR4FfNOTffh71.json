@@ -1,0 +1,9 @@
+{
+	"id": "7elR4FfNOTffh71",
+	"json": "{\"id\":\"7elR4FfNOTffh71\",\"url\":\"https://python.langchain.com/docs/integrations/llms/azure_openai_example\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/llms/azure_openai\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/llms/azure_openai_example\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:39:03.250Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/llms/azure_openai_example",
+	"url": "https://python.langchain.com/docs/integrations/llms/azure_openai_example"
+}

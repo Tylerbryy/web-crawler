@@ -1,0 +1,5 @@
+{
+	"title": "Minimax | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/minimax",
+	"html": "ProvidersMoreMinimax\nMinimax\n\nMinimax is a Chinese startup that provides natural language processing models for companies and individuals.\n\nInstallation and Setup​\n\nGet a Minimax api key and set it as an environment variable (MINIMAX_API_KEY) Get a Minimax group id and set it as an environment variable (MINIMAX_GROUP_ID)\n\nLLM​\n\nThere exists a Minimax LLM wrapper, which you can access with See a usage example.\n\nfrom langchain.llms import Minimax\n\nChat Models​\n\nSee a usage example\n\nfrom langchain.chat_models import MiniMaxChat\n\nText Embedding Model​\n\nThere exists a Minimax Embedding model, which you can access with\n\nfrom langchain.embeddings import MiniMaxEmbeddings\n\nPrevious\nMilvus\nNext\nMLflow AI Gateway"
+}

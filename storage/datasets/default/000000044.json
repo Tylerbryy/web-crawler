@@ -1,0 +1,5 @@
+{
+	"title": "Safety | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/guides/safety/",
+	"html": "Safety\nSafety\n\nOne of the key concerns with using LLMs is that they may generate harmful or unethical text. This is an area of active research in the field. Here we present some built-in chains inspired by this research, which are intended to make the outputs of LLMs safer.\n\nAmazon Comprehend moderation chain: Use Amazon Comprehend to detect and handle Personally Identifiable Information (PII) and toxicity.\nConstitutional chain: Prompt the model with a set of principles which should guide the model behavior.\nHugging Face prompt injection identification: Detect and handle prompt injection attacks.\nLogical Fallacy chain: Checks the model output against logical fallacies to correct any deviation.\nModeration chain: Check if any output text is harmful and flag it.\nPrevious\nPydantic compatibility\nNext\nAmazon Comprehend Moderation Chain"
+}

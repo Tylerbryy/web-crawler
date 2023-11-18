@@ -1,0 +1,9 @@
+{
+	"id": "zYq9b7f3KJu3IJP",
+	"json": "{\"id\":\"zYq9b7f3KJu3IJP\",\"url\":\"https://python.langchain.com/docs/integrations/providers/bageldb\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/providers/bageldb\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/providers/bageldb\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:39:11.031Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/providers/bageldb",
+	"url": "https://python.langchain.com/docs/integrations/providers/bageldb"
+}

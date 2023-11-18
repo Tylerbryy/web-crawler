@@ -1,0 +1,5 @@
+{
+	"title": "Postgres Embedding | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/pg_embedding",
+	"html": "ProvidersMorePostgres Embedding\nPostgres Embedding\n\npg_embedding is an open-source package for vector similarity search using Postgres and the Hierarchical Navigable Small Worlds algorithm for approximate nearest neighbor search.\n\nInstallation and Setup​\n\nWe need to install several python packages.\n\npip install openai\npip install psycopg2-binary\npip install tiktoken\n\nVector Store​\n\nSee a usage example.\n\nfrom langchain.vectorstores import PGEmbedding\n\nPrevious\nPetals\nNext\nPGVector"
+}

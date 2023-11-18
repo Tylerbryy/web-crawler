@@ -1,0 +1,5 @@
+{
+	"title": "C Transformers | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/llms/ctransformers",
+	"html": "ComponentsLLMsC Transformers\nC Transformers\n\nThe C Transformers library provides Python bindings for GGML models.\n\nThis example goes over how to use LangChain to interact with C Transformers models.\n\nInstall\n\n%pip install ctransformers\n\n\nLoad Model\n\nfrom langchain.llms import CTransformers\n\nllm = CTransformers(model=\"marella/gpt-2-ggml\")\n\n\nGenerate Text\n\nprint(llm(\"AI is going to\"))\n\n\nStreaming\n\nfrom langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler\n\nllm = CTransformers(\n    model=\"marella/gpt-2-ggml\", callbacks=[StreamingStdOutCallbackHandler()]\n)\n\nresponse = llm(\"AI is going to\")\n\n\nLLMChain\n\nfrom langchain.chains import LLMChain\nfrom langchain.prompts import PromptTemplate\n\ntemplate = \"\"\"Question: {question}\n\nAnswer:\"\"\"\n\nprompt = PromptTemplate(template=template, input_variables=[\"question\"])\n\nllm_chain = LLMChain(prompt=prompt, llm=llm)\n\nresponse = llm_chain.run(\"What is AI?\")\n\nPrevious\nCohere\nNext\nCTranslate2"
+}

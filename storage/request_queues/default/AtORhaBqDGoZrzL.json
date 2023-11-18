@@ -1,0 +1,9 @@
+{
+	"id": "AtORhaBqDGoZrzL",
+	"json": "{\"id\":\"AtORhaBqDGoZrzL\",\"url\":\"https://python.langchain.com/docs/guides/privacy/presidio_data_anonymization/qa_privacy_protection\",\"loadedUrl\":\"https://python.langchain.com/docs/guides/privacy/presidio_data_anonymization/qa_privacy_protection\",\"uniqueKey\":\"https://python.langchain.com/docs/guides/privacy/presidio_data_anonymization/qa_privacy_protection\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:37:10.924Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/guides/privacy/presidio_data_anonymization/qa_privacy_protection",
+	"url": "https://python.langchain.com/docs/guides/privacy/presidio_data_anonymization/qa_privacy_protection"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "sXuk0shflUqPytL",
+	"json": "{\"id\":\"sXuk0shflUqPytL\",\"url\":\"https://python.langchain.com/docs/integrations/text_embedding/awadb\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/text_embedding/awadb\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/text_embedding/awadb\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:40:41.106Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/text_embedding/awadb",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/awadb"
+}

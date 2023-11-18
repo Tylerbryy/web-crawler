@@ -1,0 +1,9 @@
+{
+	"id": "BvwLuCu7Og1H1mp",
+	"json": "{\"id\":\"BvwLuCu7Og1H1mp\",\"url\":\"https://python.langchain.com/docs/integrations/providers/xata\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/providers/xata\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/providers/xata\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:40:18.407Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/providers/xata",
+	"url": "https://python.langchain.com/docs/integrations/providers/xata"
+}

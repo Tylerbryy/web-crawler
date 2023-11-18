@@ -1,0 +1,5 @@
+{
+	"title": "GigaChat | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/llms/gigachat",
+	"html": "ComponentsLLMsGigaChat\nGigaChat\n\nThis notebook shows how to use LangChain with GigaChat. To use you need to install gigachat python package.\n\n# !pip install gigachat\n\n\nTo get GigaChat credentials you need to create account and get access to API\n\nExample​\nimport os\nfrom getpass import getpass\n\nos.environ[\"GIGACHAT_CREDENTIALS\"] = getpass()\n\nfrom langchain.llms import GigaChat\n\nllm = GigaChat(verify_ssl_certs=False)\n\nfrom langchain.chains import LLMChain\nfrom langchain.prompts import PromptTemplate\n\ntemplate = \"What is capital of {country}?\"\n\nprompt = PromptTemplate(template=template, input_variables=[\"country\"])\n\nllm_chain = LLMChain(prompt=prompt, llm=llm)\n\ngenerated = llm_chain.run(country=\"Russia\")\nprint(generated)\n\n    The capital of Russia is Moscow.\n\nPrevious\nForefrontAI\nNext\nGoogle Cloud Vertex AI"
+}

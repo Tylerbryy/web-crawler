@@ -1,0 +1,5 @@
+{
+	"title": "CerebriumAI | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/cerebriumai",
+	"html": "ProvidersMoreCerebriumAI\nCerebriumAI\n\nThis page covers how to use the CerebriumAI ecosystem within LangChain. It is broken into two parts: installation and setup, and then references to specific CerebriumAI wrappers.\n\nInstallation and Setup​\nInstall with pip install cerebrium\nGet an CerebriumAI api key and set it as an environment variable (CEREBRIUMAI_API_KEY)\nWrappers​\nLLM​\n\nThere exists an CerebriumAI LLM wrapper, which you can access with\n\nfrom langchain.llms import CerebriumAI\n\nPrevious\nBrave Search\nNext\nChaindesk"
+}

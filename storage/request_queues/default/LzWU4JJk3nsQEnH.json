@@ -1,0 +1,9 @@
+{
+	"id": "LzWU4JJk3nsQEnH",
+	"json": "{\"id\":\"LzWU4JJk3nsQEnH\",\"url\":\"https://python.langchain.com/docs/integrations/providers/promptlayer\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/providers/promptlayer\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/providers/promptlayer\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:39:35.624Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/providers/promptlayer",
+	"url": "https://python.langchain.com/docs/integrations/providers/promptlayer"
+}

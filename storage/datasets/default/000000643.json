@@ -1,0 +1,5 @@
+{
+	"title": "Chaindesk | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/chaindesk",
+	"html": "ProvidersMoreChaindesk\nChaindesk\n\nChaindesk is an open-source document retrieval platform that helps to connect your personal data with Large Language Models.\n\nInstallation and Setup​\n\nWe need to sign up for Chaindesk, create a datastore, add some data and get your datastore api endpoint url. We need the API Key.\n\nRetriever​\n\nSee a usage example.\n\nfrom langchain.retrievers import ChaindeskRetriever\n\nPrevious\nCerebriumAI\nNext\nChroma"
+}

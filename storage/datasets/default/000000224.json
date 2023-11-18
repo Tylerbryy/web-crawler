@@ -1,0 +1,5 @@
+{
+	"title": "Concurrent Loader | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/concurrent",
+	"html": "ComponentsDocument loadersConcurrent Loader\nConcurrent Loader\n\nWorks just like the GenericLoader but concurrently for those who choose to optimize their workflow.\n\nfrom langchain.document_loaders import ConcurrentLoader\n\nloader = ConcurrentLoader.from_filesystem(\"example_data/\", glob=\"**/*.txt\")\n\nfiles = loader.load()\n\nlen(files)\n\n    2\n\nPrevious\nCollege Confidential\nNext\nConfluence"
+}

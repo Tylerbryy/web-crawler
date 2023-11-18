@@ -1,0 +1,9 @@
+{
+	"id": "PbFeyVkk0ePdwBF",
+	"json": "{\"id\":\"PbFeyVkk0ePdwBF\",\"url\":\"https://python.langchain.com/docs/integrations/tools/requests\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/tools/requests\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/tools/requests\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:41:35.519Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/tools/requests",
+	"url": "https://python.langchain.com/docs/integrations/tools/requests"
+}

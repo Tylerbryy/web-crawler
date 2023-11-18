@@ -1,0 +1,9 @@
+{
+	"id": "YQWmGeB9QZ48bfY",
+	"json": "{\"id\":\"YQWmGeB9QZ48bfY\",\"url\":\"https://python.langchain.com/docs/integrations/vectorstores/tigris\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/vectorstores/tigris\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/vectorstores/tigris\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:41:01.758Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/vectorstores/tigris",
+	"url": "https://python.langchain.com/docs/integrations/vectorstores/tigris"
+}

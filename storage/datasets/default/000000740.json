@@ -1,0 +1,5 @@
+{
+	"title": "Pinecone | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/pinecone",
+	"html": "ProvidersMorePinecone\nPinecone\n\nPinecone is a vector database with broad functionality.\n\nInstallation and Setup​\n\nInstall the Python SDK:\n\npip install pinecone-client\n\nVector store​\n\nThere exists a wrapper around Pinecone indexes, allowing you to use it as a vectorstore, whether for semantic search or example selection.\n\nfrom langchain.vectorstores import Pinecone\n\n\nFor a more detailed walkthrough of the Pinecone vectorstore, see this notebook\n\nPrevious\nPGVector\nNext\nPipelineAI"
+}

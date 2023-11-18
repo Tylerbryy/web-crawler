@@ -1,0 +1,5 @@
+{
+	"title": "Jina | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/jina",
+	"html": "ComponentsText embedding modelsJina\nJina\n\nLet's load the Jina Embedding class.\n\nfrom langchain.embeddings import JinaEmbeddings\n\nembeddings = JinaEmbeddings(\n    jina_auth_token=jina_auth_token, model_name=\"ViT-B-32::openai\"\n)\n\ntext = \"This is a test document.\"\n\nquery_result = embeddings.embed_query(text)\n\ndoc_result = embeddings.embed_documents([text])\n\n\nIn the above example, ViT-B-32::openai, OpenAI's pretrained ViT-B-32 model is used. For a full list of models, see here.\n\nPrevious\nInstruct Embeddings on Hugging Face\nNext\nJohn Snow Labs"
+}

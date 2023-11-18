@@ -1,0 +1,5 @@
+{
+	"title": "Meilisearch | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/meilisearch",
+	"html": "ProvidersMoreMeilisearch\nMeilisearch\n\nMeilisearch is an open-source, lightning-fast, and hyper relevant search engine. It comes with great defaults to help developers build snappy search experiences.\n\nYou can self-host Meilisearch or run on Meilisearch Cloud.\n\nMeilisearch v1.3 supports vector search.\n\nInstallation and Setup​\n\nSee a usage example for detail configuration instructions.\n\nWe need to install meilisearch python package.\n\npip install meilisearchv\n\nVector Store​\n\nSee a usage example.\n\nfrom langchain.vectorstores import Meilisearch\n\nPrevious\nMediaWikiDump\nNext\nMetal"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "QEFHJRkcHZOEHmT",
+	"json": "{\"id\":\"QEFHJRkcHZOEHmT\",\"url\":\"https://python.langchain.com/docs/guides/privacy/presidio_data_anonymization/reversible\",\"loadedUrl\":\"https://python.langchain.com/docs/guides/privacy/presidio_data_anonymization/reversible\",\"uniqueKey\":\"https://python.langchain.com/docs/guides/privacy/presidio_data_anonymization/reversible\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:40:27.072Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/guides/privacy/presidio_data_anonymization/reversible",
+	"url": "https://python.langchain.com/docs/guides/privacy/presidio_data_anonymization/reversible"
+}

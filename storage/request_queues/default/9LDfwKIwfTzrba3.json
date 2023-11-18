@@ -1,0 +1,9 @@
+{
+	"id": "9LDfwKIwfTzrba3",
+	"json": "{\"id\":\"9LDfwKIwfTzrba3\",\"url\":\"https://python.langchain.com/docs/integrations/providers/docugami\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/providers/docugami\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/providers/docugami\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:39:17.736Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/providers/docugami",
+	"url": "https://python.langchain.com/docs/integrations/providers/docugami"
+}

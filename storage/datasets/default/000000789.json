@@ -1,0 +1,5 @@
+{
+	"title": "Vespa | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/vespa",
+	"html": "ProvidersMoreVespa\nVespa\n\nVespa is a fully featured search engine and vector database. It supports vector search (ANN), lexical search, and search in structured data, all in the same query.\n\nInstallation and Setup​\npip install pyvespa\n\nRetriever​\n\nSee a usage example.\n\nfrom langchain.retrievers import VespaRetriever\n\nPrevious\nVectara Text Generation\nNext\nWandB Tracing"
+}

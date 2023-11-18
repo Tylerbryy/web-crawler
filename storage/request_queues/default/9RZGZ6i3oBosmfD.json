@@ -1,0 +1,9 @@
+{
+	"id": "9RZGZ6i3oBosmfD",
+	"json": "{\"id\":\"9RZGZ6i3oBosmfD\",\"url\":\"https://python.langchain.com/docs/modules/chains/foundational/\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/chains/foundational/\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/chains/foundational\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:37:16.013Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/chains/foundational",
+	"url": "https://python.langchain.com/docs/modules/chains/foundational/"
+}

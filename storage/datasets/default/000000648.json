@@ -1,0 +1,5 @@
+{
+	"title": "Cohere | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/cohere",
+	"html": "ProvidersMoreCohere\nCohere\n\nCohere is a Canadian startup that provides natural language processing models that help companies improve human-machine interactions.\n\nInstallation and Setup​\nInstall the Python SDK :\npip install cohere\n\n\nGet a Cohere api key and set it as an environment variable (COHERE_API_KEY)\n\nLLM​\n\nThere exists an Cohere LLM wrapper, which you can access with See a usage example.\n\nfrom langchain.llms import Cohere\n\nText Embedding Model​\n\nThere exists an Cohere Embedding model, which you can access with\n\nfrom langchain.embeddings import CohereEmbeddings\n\n\nFor a more detailed walkthrough of this, see this notebook\n\nRetriever​\n\nSee a usage example.\n\nfrom langchain.retrievers.document_compressors import CohereRerank\n\nPrevious\nCnosDB\nNext\nCollege Confidential"
+}

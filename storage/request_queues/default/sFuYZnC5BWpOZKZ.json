@@ -1,0 +1,9 @@
+{
+	"id": "sFuYZnC5BWpOZKZ",
+	"json": "{\"id\":\"sFuYZnC5BWpOZKZ\",\"url\":\"https://python.langchain.com/docs/integrations/document_loaders/airbyte_zendesk_support\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/document_loaders/airbyte_zendesk_support\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/document_loaders/airbyte_zendesk_support\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:33.502Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/document_loaders/airbyte_zendesk_support",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/airbyte_zendesk_support"
+}

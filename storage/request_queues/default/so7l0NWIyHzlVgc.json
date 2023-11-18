@@ -1,0 +1,9 @@
+{
+	"id": "so7l0NWIyHzlVgc",
+	"json": "{\"id\":\"so7l0NWIyHzlVgc\",\"url\":\"https://python.langchain.com/docs/integrations/tools/graphql\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/tools/graphql\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/tools/graphql\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:41:31.140Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/tools/graphql",
+	"url": "https://python.langchain.com/docs/integrations/tools/graphql"
+}

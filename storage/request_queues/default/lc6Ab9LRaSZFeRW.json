@@ -1,0 +1,9 @@
+{
+	"id": "lc6Ab9LRaSZFeRW",
+	"json": "{\"id\":\"lc6Ab9LRaSZFeRW\",\"url\":\"https://python.langchain.com/docs/integrations/vectorstores/pinecone\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/vectorstores/pinecone\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/vectorstores/pinecone\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:40:58.895Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/vectorstores/pinecone",
+	"url": "https://python.langchain.com/docs/integrations/vectorstores/pinecone"
+}

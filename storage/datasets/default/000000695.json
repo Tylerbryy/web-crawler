@@ -1,0 +1,5 @@
+{
+	"title": "IMSDb | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/imsdb",
+	"html": "ProvidersMoreIMSDb\nIMSDb\n\nIMSDb is the Internet Movie Script Database.\n\nInstallation and Setup​\n\nThere isn't any special setup for it.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import IMSDbLoader\n\nPrevious\niFixit\nNext\nInfino"
+}

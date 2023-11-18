@@ -1,0 +1,5 @@
+{
+	"title": "Google Cloud Text-to-Speech | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/tools/google_cloud_texttospeech",
+	"html": "ComponentsToolsGoogle Cloud Text-to-Speech\nGoogle Cloud Text-to-Speech\n\nThis notebook shows how to interact with the Google Cloud Text-to-Speech API to achieve speech synthesis capabilities.\n\nFirst, you need to set up an Google Cloud project. You can follow the instructions here.\n\n# !pip install google-cloud-text-to-speech\n\nUsage​\nfrom langchain.tools import GoogleCloudTextToSpeechTool\n\ntext_to_speak = \"Hello world!\"\n\ntts = GoogleCloudTextToSpeechTool()\ntts.name\n\n\nWe can generate audio, save it to the temporary file and then play it.\n\nspeech_file = tts.run(text_to_speak)\n\nPrevious\nGolden Query\nNext\nGoogle Drive"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "ERNIE-Bot Chat | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/chat/ernie",
+	"html": "ComponentsChat modelsERNIE-Bot Chat\nERNIE-Bot Chat\n\nERNIE-Bot is a large language model developed by Baidu, covering a huge amount of Chinese data. This notebook covers how to get started with ErnieBot chat models.\n\nfrom langchain.chat_models import ErnieBotChat\nfrom langchain.schema import HumanMessage\n\nchat = ErnieBotChat(\n    ernie_client_id=\"YOUR_CLIENT_ID\", ernie_client_secret=\"YOUR_CLIENT_SECRET\"\n)\n\n\nor you can set client_id and client_secret in your environment variables\n\nexport ERNIE_CLIENT_ID=YOUR_CLIENT_ID\nexport ERNIE_CLIENT_SECRET=YOUR_CLIENT_SECRET\n\nchat([HumanMessage(content=\"hello there, who are you?\")])\n\n    AIMessage(content='Hello, I am an artificial intelligence language model. My purpose is to help users answer questions or provide information. What can I do for you?', additional_kwargs={}, example=False)\n\nPrevious\nCohere\nNext\nEverlyAI"
+}

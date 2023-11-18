@@ -1,0 +1,5 @@
+{
+	"title": "HTML to text | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/html2text",
+	"html": "ProvidersMoreHTML to text\nHTML to text\n\nhtml2text is a Python package that converts a page of HTML into clean, easy-to-read plain ASCII text.\n\nThe ASCII also happens to be a valid Markdown (a text-to-HTML format).\n\nInstallation and Setup​\npip install html2text\n\nDocument Transformer​\n\nSee a usage example.\n\nfrom langchain.document_loaders import Html2TextTransformer\n\nPrevious\nHologres\nNext\nHugging Face"
+}

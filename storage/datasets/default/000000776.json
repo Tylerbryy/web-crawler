@@ -1,0 +1,5 @@
+{
+	"title": "TencentVectorDB | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/tencentvectordb",
+	"html": "ProvidersMoreTencentVectorDB\nTencentVectorDB\n\nThis page covers how to use the TencentVectorDB ecosystem within LangChain.\n\nVectorStore​\n\nThere exists a wrapper around TencentVectorDB, allowing you to use it as a vectorstore, whether for semantic search or example selection.\n\nTo import this vectorstore:\n\nfrom langchain.vectorstores import TencentVectorDB\n\n\nFor a more detailed walkthrough of the TencentVectorDB wrapper, see this notebook\n\nPrevious\nTelegram\nNext\nTensorFlow Datasets"
+}

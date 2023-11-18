@@ -1,0 +1,5 @@
+{
+	"title": "DeepSparse | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/deepsparse",
+	"html": "ProvidersMoreDeepSparse\nDeepSparse\n\nThis page covers how to use the DeepSparse inference runtime within LangChain. It is broken into two parts: installation and setup, and then examples of DeepSparse usage.\n\nInstallation and Setup​\nInstall the Python package with pip install deepsparse\nChoose a SparseZoo model or export a support model to ONNX using Optimum\nWrappers​\nLLM​\n\nThere exists a DeepSparse LLM wrapper, which you can access with:\n\nfrom langchain.llms import DeepSparse\n\n\nIt provides a unified interface for all models:\n\nllm = DeepSparse(model='zoo:nlg/text_generation/codegen_mono-350m/pytorch/huggingface/bigpython_bigquery_thepile/base-none')\n\nprint(llm('def fib():'))\n\n\nAdditional parameters can be passed using the config parameter:\n\nconfig = {'max_generated_tokens': 256}\n\nllm = DeepSparse(model='zoo:nlg/text_generation/codegen_mono-350m/pytorch/huggingface/bigpython_bigquery_thepile/base-none', config=config)\n\nPrevious\nDeepInfra\nNext\nDiffbot"
+}

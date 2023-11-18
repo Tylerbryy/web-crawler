@@ -1,0 +1,9 @@
+{
+	"id": "IPq5UIkfxsdejoC",
+	"json": "{\"id\":\"IPq5UIkfxsdejoC\",\"url\":\"https://python.langchain.com/docs/modules/chains/foundational/sequential_chains\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/chains/foundational/sequential_chains\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/chains/foundational/sequential_chains\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:41:10.356Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/chains/foundational/sequential_chains",
+	"url": "https://python.langchain.com/docs/modules/chains/foundational/sequential_chains"
+}

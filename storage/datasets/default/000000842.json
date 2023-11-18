@@ -1,0 +1,5 @@
+{
+	"title": "DashScope | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/dashscope",
+	"html": "ComponentsText embedding modelsDashScope\nDashScope\n\nLet's load the DashScope Embedding class.\n\nfrom langchain.embeddings import DashScopeEmbeddings\n\nembeddings = DashScopeEmbeddings(\n    model=\"text-embedding-v1\", dashscope_api_key=\"your-dashscope-api-key\"\n)\n\ntext = \"This is a test document.\"\n\nquery_result = embeddings.embed_query(text)\nprint(query_result)\n\ndoc_results = embeddings.embed_documents([\"foo\"])\nprint(doc_results)\n\nPrevious\nCohere\nNext\nDeepInfra"
+}

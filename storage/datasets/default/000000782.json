@@ -1,0 +1,5 @@
+{
+	"title": "Twitter | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/twitter",
+	"html": "ProvidersMoreTwitter\nTwitter\n\nTwitter is an online social media and social networking service.\n\nInstallation and Setup​\npip install tweepy\n\n\nWe must initialize the loader with the Twitter API token, and we need to set up the Twitter username.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import TwitterTweetLoader\n\nPrevious\nTruLens\nNext\nTypesense"
+}

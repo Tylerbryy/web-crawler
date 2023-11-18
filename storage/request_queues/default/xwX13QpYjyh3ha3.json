@@ -1,0 +1,9 @@
+{
+	"id": "xwX13QpYjyh3ha3",
+	"json": "{\"id\":\"xwX13QpYjyh3ha3\",\"url\":\"https://python.langchain.com/docs/modules/data_connection/retrievers/web_research\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/data_connection/retrievers/web_research\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/data_connection/retrievers/web_research\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:27.162Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/data_connection/retrievers/web_research",
+	"url": "https://python.langchain.com/docs/modules/data_connection/retrievers/web_research"
+}

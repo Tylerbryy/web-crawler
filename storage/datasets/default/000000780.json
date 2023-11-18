@@ -1,0 +1,5 @@
+{
+	"title": "Trello | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/trello",
+	"html": "ProvidersMoreTrello\nTrello\n\nTrello is a web-based project management and collaboration tool that allows individuals and teams to organize and track their tasks and projects. It provides a visual interface known as a \"board\" where users can create lists and cards to represent their tasks and activities. The TrelloLoader allows us to load cards from a Trello board.\n\nInstallation and Setup​\npip install py-trello beautifulsoup4\n\n\nSee setup instructions.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import TrelloLoader\n\nPrevious\n2Markdown\nNext\nTruLens"
+}

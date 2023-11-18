@@ -1,0 +1,5 @@
+{
+	"title": "YandexGPT | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/llms/yandex",
+	"html": "ComponentsLLMsYandexGPT\nYandexGPT\n\nThis notebook goes over how to use Langchain with YandexGPT.\n\nTo use, you should have the yandexcloud python package installed.\n\n%pip install yandexcloud\n\n\nFirst, you should create service account with the ai.languageModels.user role.\n\nNext, you have two authentication options:\n\nIAM token. You can specify the token in a constructor parameter iam_token or in an environment variable YC_IAM_TOKEN.\nAPI key You can specify the key in a constructor parameter api_key or in an environment variable YC_API_KEY.\nfrom langchain.chains import LLMChain\nfrom langchain.llms import YandexGPT\nfrom langchain.prompts import PromptTemplate\n\ntemplate = \"What is the capital of {country}?\"\nprompt = PromptTemplate(template=template, input_variables=[\"country\"])\n\nllm = YandexGPT()\n\nllm_chain = LLMChain(prompt=prompt, llm=llm)\n\ncountry = \"Russia\"\n\nllm_chain.run(country)\n\n    'Moscow'\n\nPrevious\nXorbits Inference (Xinference)\nNext\nChat models"
+}

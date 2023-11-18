@@ -1,0 +1,5 @@
+{
+	"title": "Fake Embeddings | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/fake",
+	"html": "ComponentsText embedding modelsFake Embeddings\nFake Embeddings\n\nLangChain also provides a fake embedding class. You can use this to test your pipelines.\n\nfrom langchain.embeddings import FakeEmbeddings\n\nembeddings = FakeEmbeddings(size=1352)\n\nquery_result = embeddings.embed_query(\"foo\")\n\ndoc_results = embeddings.embed_documents([\"foo\"])\n\nPrevious\nERNIE\nNext\nFastEmbed by Qdrant"
+}

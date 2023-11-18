@@ -1,0 +1,5 @@
+{
+	"title": "Zilliz | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/zilliz",
+	"html": "ProvidersMoreZilliz\nZilliz\n\nZilliz Cloud is a fully managed service on cloud for LF AI Milvus®,\n\nInstallation and Setup​\n\nInstall the Python SDK:\n\npip install pymilvus\n\nVectorstore​\n\nA wrapper around Zilliz indexes allows you to use it as a vectorstore, whether for semantic search or example selection.\n\nfrom langchain.vectorstores import Milvus\n\n\nFor a more detailed walkthrough of the Miluvs wrapper, see this notebook\n\nPrevious\nZep\nNext\nComponents"
+}

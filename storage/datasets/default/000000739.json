@@ -1,0 +1,5 @@
+{
+	"title": "PGVector | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/pgvector",
+	"html": "ProvidersMorePGVector\nPGVector\n\nThis page covers how to use the Postgres PGVector ecosystem within LangChain It is broken into two parts: installation and setup, and then references to specific PGVector wrappers.\n\nInstallation​\nInstall the Python package with pip install pgvector\nSetup​\n\nThe first step is to create a database with the pgvector extension installed.\n\nFollow the steps at PGVector Installation Steps to install the database and the extension. The docker image is the easiest way to get started.\n\nWrappers​\nVectorStore​\n\nThere exists a wrapper around Postgres vector databases, allowing you to use it as a vectorstore, whether for semantic search or example selection.\n\nTo import this vectorstore:\n\nfrom langchain.vectorstores.pgvector import PGVector\n\nUsage​\n\nFor a more detailed walkthrough of the PGVector Wrapper, see this notebook\n\nPrevious\nPostgres Embedding\nNext\nPinecone"
+}

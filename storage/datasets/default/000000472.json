@@ -1,0 +1,5 @@
+{
+	"title": "you-retriever | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/retrievers/you-retriever",
+	"html": "ComponentsRetrieversyou-retriever\nyou-retriever\nUsing the You.com Retriever​\n\nThe retriever from You.com is good for retrieving lots of text. We return multiple of the best text snippets per URL we find to be relevant.\n\nFirst you just need to initialize the retriever\n\nfrom langchain.chains import RetrievalQA\nfrom langchain.llms import OpenAI\nfrom langchain.retrievers.you_retriever import YouRetriever\n\nyr = YouRetriever()\nqa = RetrievalQA.from_chain_type(llm=OpenAI(), chain_type=\"map_reduce\", retriever=yr)\n\nquery = \"what starting ohio state quarterback most recently went their entire college career without beating Michigan?\"\nqa.run(query)\n\nPrevious\nWikipedia\nNext\nZep"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "Figma | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/figma",
+	"html": "ProvidersMoreFigma\nFigma\n\nFigma is a collaborative web application for interface design.\n\nInstallation and Setup​\n\nThe Figma API requires an access token, node_ids, and a file key.\n\nThe file key can be pulled from the URL. https://www.figma.com/file/{filekey}/sampleFilename\n\nNode IDs are also available in the URL. Click on anything and look for the '?node-id={node_id}' param.\n\nAccess token instructions.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import FigmaFileLoader\n\nPrevious\nFacebook Faiss\nNext\nFireworks"
+}

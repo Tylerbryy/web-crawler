@@ -1,0 +1,9 @@
+{
+	"id": "4ik2g3SwNRi4d88",
+	"json": "{\"id\":\"4ik2g3SwNRi4d88\",\"url\":\"https://python.langchain.com/docs/integrations/callbacks/confident\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/callbacks/confident\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/callbacks/confident\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:42:40.567Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/callbacks/confident",
+	"url": "https://python.langchain.com/docs/integrations/callbacks/confident"
+}

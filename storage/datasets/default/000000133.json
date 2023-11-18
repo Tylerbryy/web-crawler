@@ -1,0 +1,5 @@
+{
+	"title": "Code writing | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/expression_language/cookbook/code_writing",
+	"html": "LangChain Expression LanguageCookbookCode writing\nCode writing\n\nExample of how to use LCEL to write Python code.\n\nfrom langchain.chat_models import ChatOpenAI\nfrom langchain.prompts import (\n    ChatPromptTemplate,\n)\nfrom langchain.schema.output_parser import StrOutputParser\nfrom langchain_experimental.utilities import PythonREPL\n\ntemplate = \"\"\"Write some python code to solve the user's problem. \n\nReturn only python code in Markdown format, e.g.:\n\n```python\n....\n```\"\"\"\nprompt = ChatPromptTemplate.from_messages([(\"system\", template), (\"human\", \"{input}\")])\n\nmodel = ChatOpenAI()\n\ndef _sanitize_output(text: str):\n    _, after = text.split(\"```python\")\n    return after.split(\"```\")[0]\n\nchain = prompt | model | StrOutputParser() | _sanitize_output | PythonREPL().run\n\nchain.invoke({\"input\": \"whats 2 plus 2\"})\n\n    Python REPL can execute arbitrary code. Use with caution.\n\n\n\n\n\n    '4\\n'\n\nPrevious\nAgents\nNext\nRouting by semantic similarity"
+}

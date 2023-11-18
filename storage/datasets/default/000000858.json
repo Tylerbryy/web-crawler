@@ -1,0 +1,5 @@
+{
+	"title": "MiniMax | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/minimax",
+	"html": "ComponentsText embedding modelsMiniMax\nMiniMax\n\nMiniMax offers an embeddings service.\n\nThis example goes over how to use LangChain to interact with MiniMax Inference for text embedding.\n\nimport os\n\nos.environ[\"MINIMAX_GROUP_ID\"] = \"MINIMAX_GROUP_ID\"\nos.environ[\"MINIMAX_API_KEY\"] = \"MINIMAX_API_KEY\"\n\nfrom langchain.embeddings import MiniMaxEmbeddings\n\nembeddings = MiniMaxEmbeddings()\n\nquery_text = \"This is a test query.\"\nquery_result = embeddings.embed_query(query_text)\n\ndocument_text = \"This is a test document.\"\ndocument_result = embeddings.embed_documents([document_text])\n\nimport numpy as np\n\nquery_numpy = np.array(query_result)\ndocument_numpy = np.array(document_result[0])\nsimilarity = np.dot(query_numpy, document_numpy) / (\n    np.linalg.norm(query_numpy) * np.linalg.norm(document_numpy)\n)\nprint(f\"Cosine similarity between document and query: {similarity}\")\n\n    Cosine similarity between document and query: 0.1573236279277012\n\nPrevious\nLocalAI\nNext\nModelScope"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "ModelScope | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/modelscope_hub",
+	"html": "ComponentsText embedding modelsModelScope\nModelScope\n\nModelScope is big repository of the models and datasets.\n\nLet's load the ModelScope Embedding class.\n\nfrom langchain.embeddings import ModelScopeEmbeddings\n\nmodel_id = \"damo/nlp_corom_sentence-embedding_english-base\"\n\nembeddings = ModelScopeEmbeddings(model_id=model_id)\n\ntext = \"This is a test document.\"\n\nquery_result = embeddings.embed_query(text)\n\ndoc_results = embeddings.embed_documents([\"foo\"])\n\nPrevious\nMiniMax\nNext\nMosaicML"
+}

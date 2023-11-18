@@ -1,0 +1,5 @@
+{
+	"title": "Yandex | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/yandex",
+	"html": "ProvidersMoreYandex\nYandex\n\nAll functionality related to Yandex Cloud\n\nYandex Cloud is a public cloud platform.\n\nInstallation and Setup​\n\nYandex Cloud SDK can be installed via pip from PyPI:\n\npip install yandexcloud\n\nLLMs​\nYandexGPT​\n\nSee a usage example.\n\nfrom langchain.llms import YandexGPT\n\nChat models​\nYandexGPT​\n\nSee a usage example.\n\nfrom langchain.chat_models import ChatYandexGPT\n\nPrevious\nXorbits Inference (Xinference)\nNext\nYeager.ai"
+}

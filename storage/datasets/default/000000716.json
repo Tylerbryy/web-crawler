@@ -1,0 +1,5 @@
+{
+	"title": "Modern Treasury | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/modern_treasury",
+	"html": "ProvidersMoreModern Treasury\nModern Treasury\n\nModern Treasury simplifies complex payment operations. It is a unified platform to power products and processes that move money.\n\nConnect to banks and payment systems\nTrack transactions and balances in real-time\nAutomate payment operations for scale\nInstallation and Setup​\n\nThere isn't any special setup for it.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import ModernTreasuryLoader\n\nPrevious\nModelScope\nNext\nMomento"
+}

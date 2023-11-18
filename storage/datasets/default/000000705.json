@@ -1,0 +1,5 @@
+{
+	"title": "MediaWikiDump | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/mediawikidump",
+	"html": "ProvidersMoreMediaWikiDump\nMediaWikiDump\n\nMediaWiki XML Dumps contain the content of a wiki (wiki pages with all their revisions), without the site-related data. A XML dump does not create a full backup of the wiki database, the dump does not contain user accounts, images, edit logs, etc.\n\nInstallation and Setup​\n\nWe need to install several python packages.\n\nThe mediawiki-utilities supports XML schema 0.11 in unmerged branches.\n\npip install -qU git+https://github.com/mediawiki-utilities/python-mwtypes@updates_schema_0.11\n\n\nThe mediawiki-utilities mwxml has a bug, fix PR pending.\n\npip install -qU git+https://github.com/gdedrouas/python-mwxml@xml_format_0.11\npip install -qU mwparserfromhell\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import MWDumpLoader\n\nPrevious\nMarqo\nNext\nMeilisearch"
+}

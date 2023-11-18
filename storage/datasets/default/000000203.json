@@ -1,0 +1,5 @@
+{
+	"title": "Airtable | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/airtable",
+	"html": "ComponentsDocument loadersAirtable\nAirtable\npip install pyairtable\n\nfrom langchain.document_loaders import AirtableLoader\n\nGet your API key here.\nGet ID of your base here.\nGet your table ID from the table url as shown here.\napi_key = \"xxx\"\nbase_id = \"xxx\"\ntable_id = \"xxx\"\n\nloader = AirtableLoader(api_key, table_id, base_id)\ndocs = loader.load()\n\n\nReturns each table row as dict.\n\nlen(docs)\n\n    3\n\neval(docs[0].page_content)\n\n    {'id': 'recF3GbGZCuh9sXIQ',\n     'createdTime': '2023-06-09T04:47:21.000Z',\n     'fields': {'Priority': 'High',\n      'Status': 'In progress',\n      'Name': 'Document Splitters'}}\n\nPrevious\nAirbyte Zendesk Support\nNext\nAlibaba Cloud MaxCompute"
+}

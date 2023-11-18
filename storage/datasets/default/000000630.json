@@ -1,0 +1,5 @@
+{
+	"title": "AwaDB | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/awadb",
+	"html": "ProvidersMoreAwaDB\nAwaDB\n\nAwaDB is an AI Native database for the search and storage of embedding vectors used by LLM Applications.\n\nInstallation and Setup​\npip install awadb\n\nVector Store​\nfrom langchain.vectorstores import AwaDB\n\n\nSee a usage example.\n\nText Embedding Model​\nfrom langchain.embeddings import AwaEmbeddings\n\n\nSee a usage example.\n\nPrevious\nAtlas\nNext\nAWS DynamoDB"
+}

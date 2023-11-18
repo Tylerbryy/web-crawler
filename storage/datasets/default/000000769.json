@@ -1,0 +1,5 @@
+{
+	"title": "StarRocks | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/starrocks",
+	"html": "ProvidersMoreStarRocks\nStarRocks\n\nStarRocks is a High-Performance Analytical Database. StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.\n\nUsually StarRocks is categorized into OLAP, and it has showed excellent performance in ClickBench — a Benchmark For Analytical DBMS. Since it has a super-fast vectorized execution engine, it could also be used as a fast vectordb.\n\nInstallation and Setup​\npip install pymysql\n\nVector Store​\n\nSee a usage example.\n\nfrom langchain.vectorstores import StarRocks\n\nPrevious\nSpreedly\nNext\nStochasticAI"
+}

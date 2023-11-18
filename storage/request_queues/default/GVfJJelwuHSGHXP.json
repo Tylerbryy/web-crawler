@@ -1,0 +1,9 @@
+{
+	"id": "GVfJJelwuHSGHXP",
+	"json": "{\"id\":\"GVfJJelwuHSGHXP\",\"url\":\"https://python.langchain.com/docs/integrations/document_loaders/reddit\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/document_loaders/reddit\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/document_loaders/reddit\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:54.423Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/document_loaders/reddit",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/reddit"
+}

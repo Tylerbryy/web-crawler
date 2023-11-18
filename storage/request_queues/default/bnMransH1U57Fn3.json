@@ -1,0 +1,9 @@
+{
+	"id": "bnMransH1U57Fn3",
+	"json": "{\"id\":\"bnMransH1U57Fn3\",\"url\":\"https://python.langchain.com/docs/integrations/vectorstores/xata\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/vectorstores/xata\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/vectorstores/xata\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:41:04.499Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/vectorstores/xata",
+	"url": "https://python.langchain.com/docs/integrations/vectorstores/xata"
+}

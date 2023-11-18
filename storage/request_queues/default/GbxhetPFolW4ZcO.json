@@ -1,0 +1,9 @@
+{
+	"id": "GbxhetPFolW4ZcO",
+	"json": "{\"id\":\"GbxhetPFolW4ZcO\",\"url\":\"https://python.langchain.com/docs/integrations/tools/search_tools\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/tools/search_tools\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/tools/search_tools\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:41:36.404Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/tools/search_tools",
+	"url": "https://python.langchain.com/docs/integrations/tools/search_tools"
+}

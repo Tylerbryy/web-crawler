@@ -1,0 +1,5 @@
+{
+	"title": "AwaDB | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/awadb",
+	"html": "ComponentsText embedding modelsAwaDB\nAwaDB\n\nAwaDB is an AI Native database for the search and storage of embedding vectors used by LLM Applications.\n\nThis notebook explains how to use AwaEmbeddings in LangChain.\n\n# pip install awadb\n\nimport the library​\nfrom langchain.embeddings import AwaEmbeddings\n\nEmbedding = AwaEmbeddings()\n\nSet embedding model\n\nUsers can use Embedding.set_model() to specify the embedding model. \\ The input of this function is a string which represents the model's name. \\ The list of currently supported models can be obtained here \\ \\\n\nThe default model is all-mpnet-base-v2, it can be used without setting.\n\ntext = \"our embedding test\"\n\nEmbedding.set_model(\"all-mpnet-base-v2\")\n\nres_query = Embedding.embed_query(\"The test information\")\nres_document = Embedding.embed_documents([\"test1\", \"another test\"])\n\nPrevious\nAleph Alpha\nNext\nAzure OpenAI"
+}

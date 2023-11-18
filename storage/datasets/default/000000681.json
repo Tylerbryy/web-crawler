@@ -1,0 +1,5 @@
+{
+	"title": "GooseAI | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/gooseai",
+	"html": "ProvidersMoreGooseAI\nGooseAI\n\nThis page covers how to use the GooseAI ecosystem within LangChain. It is broken into two parts: installation and setup, and then references to specific GooseAI wrappers.\n\nInstallation and Setup​\nInstall the Python SDK with pip install openai\nGet your GooseAI api key from this link here.\nSet the environment variable (GOOSEAI_API_KEY).\nimport os\nos.environ[\"GOOSEAI_API_KEY\"] = \"YOUR_API_KEY\"\n\nWrappers​\nLLM​\n\nThere exists an GooseAI LLM wrapper, which you can access with:\n\nfrom langchain.llms import GooseAI\n\nPrevious\nSerper - Google Search API\nNext\nGPT4All"
+}

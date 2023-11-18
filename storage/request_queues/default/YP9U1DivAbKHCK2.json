@@ -1,0 +1,9 @@
+{
+	"id": "YP9U1DivAbKHCK2",
+	"json": "{\"id\":\"YP9U1DivAbKHCK2\",\"url\":\"https://python.langchain.com/docs/integrations/document_loaders/azlyrics\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/document_loaders/azlyrics\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/document_loaders/azlyrics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:35.210Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/document_loaders/azlyrics",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/azlyrics"
+}

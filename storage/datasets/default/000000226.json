@@ -1,0 +1,5 @@
+{
+	"title": "CoNLL-U | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/conll-u",
+	"html": "ComponentsDocument loadersCoNLL-U\nCoNLL-U\n\nCoNLL-U is revised version of the CoNLL-X format. Annotations are encoded in plain text files (UTF-8, normalized to NFC, using only the LF character as line break, including an LF character at the end of file) with three types of lines:\n\nWord lines containing the annotation of a word/token in 10 fields separated by single tab characters; see below.\nBlank lines marking sentence boundaries.\nComment lines starting with hash (#).\n\nThis is an example of how to load a file in CoNLL-U format. The whole file is treated as one document. The example data (conllu.conllu) is based on one of the standard UD/CoNLL-U examples.\n\nfrom langchain.document_loaders import CoNLLULoader\n\nloader = CoNLLULoader(\"example_data/conllu.conllu\")\n\ndocument = loader.load()\n\ndocument\n\n    [Document(page_content='They buy and sell books.', metadata={'source': 'example_data/conllu.conllu'})]\n\nPrevious\nConfluence\nNext\nCopy Paste"
+}

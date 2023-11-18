@@ -1,0 +1,9 @@
+{
+	"id": "xPhPucmwjwu7cJW",
+	"json": "{\"id\":\"xPhPucmwjwu7cJW\",\"url\":\"https://python.langchain.com/docs/integrations/document_loaders/web_base\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/document_loaders/web_base\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/document_loaders/web_base\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:58.700Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/document_loaders/web_base",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/web_base"
+}

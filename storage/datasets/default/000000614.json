@@ -1,0 +1,5 @@
+{
+	"title": "AINetwork | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/ainetwork",
+	"html": "ProvidersMoreAINetwork\nAINetwork\n\nAI Network is a layer 1 blockchain designed to accommodate large-scale AI models, utilizing a decentralized GPU network powered by the $AIN token, enriching AI-driven NFTs (AINFTs).\n\nInstallation and Setup​\n\nYou need to install ain-py python package.\n\npip install ain-py\n\n\nYou need to set the AIN_BLOCKCHAIN_ACCOUNT_PRIVATE_KEY environmental variable to your AIN Blockchain Account Private Key.\n\nToolkit​\n\nSee a usage example.\n\nfrom langchain.agents.agent_toolkits.ainetwork.toolkit import AINetworkToolkit\n\nPrevious\nAim\nNext\nAirbyte"
+}

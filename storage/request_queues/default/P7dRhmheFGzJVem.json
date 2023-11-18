@@ -1,0 +1,9 @@
+{
+	"id": "P7dRhmheFGzJVem",
+	"json": "{\"id\":\"P7dRhmheFGzJVem\",\"url\":\"https://python.langchain.com/docs/integrations/retrievers/self_query/pinecone\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/retrievers/self_query/pinecone\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/retrievers/self_query/pinecone\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:37:33.881Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/retrievers/self_query/pinecone",
+	"url": "https://python.langchain.com/docs/integrations/retrievers/self_query/pinecone"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "Motörhead | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/motorhead",
+	"html": "ProvidersMoreMotörhead\nMotörhead\n\nMotörhead is a memory server implemented in Rust. It automatically handles incremental summarization in the background and allows for stateless applications.\n\nInstallation and Setup​\n\nSee instructions at Motörhead for running the server locally.\n\nMemory​\n\nSee a usage example.\n\nfrom langchain.memory import MotorheadMemory\n\nPrevious\nMotherduck\nNext\nMyScale"
+}

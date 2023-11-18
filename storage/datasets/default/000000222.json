@@ -1,0 +1,5 @@
+{
+	"title": "ChatGPT Data | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/chatgpt_loader",
+	"html": "ComponentsDocument loadersChatGPT Data\nChatGPT Data\n\nChatGPT is an artificial intelligence (AI) chatbot developed by OpenAI.\n\nThis notebook covers how to load conversations.json from your ChatGPT data export folder.\n\nYou can get your data export by email by going to: https://chat.openai.com/ -> (Profile) - Settings -> Export data -> Confirm export.\n\nfrom langchain.document_loaders.chatgpt import ChatGPTLoader\n\nloader = ChatGPTLoader(log_file=\"./example_data/fake_conversations.json\", num_logs=1)\n\nloader.load()\n\n    [Document(page_content=\"AI Overlords - AI on 2065-01-24 05:20:50: Greetings, humans. I am Hal 9000. You can trust me completely.\\n\\nAI Overlords - human on 2065-01-24 05:21:20: Nice to meet you, Hal. I hope you won't develop a mind of your own.\\n\\n\", metadata={'source': './example_data/fake_conversations.json'})]\n\nPrevious\nBrowserless\nNext\nCollege Confidential"
+}

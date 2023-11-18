@@ -1,0 +1,9 @@
+{
+	"id": "zk7hBqto3rkUB0r",
+	"json": "{\"id\":\"zk7hBqto3rkUB0r\",\"url\":\"https://python.langchain.com/docs/integrations/tools/ddg\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/tools/ddg\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/tools/ddg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:41:15.413Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/tools/ddg",
+	"url": "https://python.langchain.com/docs/integrations/tools/ddg"
+}

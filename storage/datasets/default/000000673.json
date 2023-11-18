@@ -1,0 +1,5 @@
+{
+	"title": "Facebook Faiss | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/facebook_faiss",
+	"html": "ProvidersMoreFacebook Faiss\nFacebook Faiss\n\nFacebook AI Similarity Search (Faiss) is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning.\n\nFaiss documentation.\n\nInstallation and Setup​\n\nWe need to install faiss python package.\n\npip install faiss-gpu # For CUDA 7.5+ supported GPU's.\n\n\nOR\n\npip install faiss-cpu # For CPU Installation\n\nVector Store​\n\nSee a usage example.\n\nfrom langchain.vectorstores import FAISS\n\nPrevious\nFacebook Chat\nNext\nFigma"
+}

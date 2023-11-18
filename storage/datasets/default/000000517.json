@@ -1,0 +1,5 @@
+{
+	"title": "YandexGPT | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/chat/yandex",
+	"html": "ComponentsChat modelsYandexGPT\nYandexGPT\n\nThis notebook goes over how to use Langchain with YandexGPT chat model.\n\nTo use, you should have the yandexcloud python package installed.\n\n%pip install yandexcloud\n\n\nFirst, you should create service account with the ai.languageModels.user role.\n\nNext, you have two authentication options:\n\nIAM token. You can specify the token in a constructor parameter iam_token or in an environment variable YC_IAM_TOKEN.\nAPI key You can specify the key in a constructor parameter api_key or in an environment variable YC_API_KEY.\nfrom langchain.chat_models import ChatYandexGPT\nfrom langchain.schema import HumanMessage, SystemMessage\n\nchat_model = ChatYandexGPT()\n\nanswer = chat_model(\n    [\n        SystemMessage(\n            content=\"You are a helpful assistant that translates English to French.\"\n        ),\n        HumanMessage(content=\"I love programming.\"),\n    ]\n)\nanswer\n\n    AIMessage(content=\"Je t'aime programmer.\")\n\nPrevious\nvLLM Chat\nNext\nDocument loaders"
+}

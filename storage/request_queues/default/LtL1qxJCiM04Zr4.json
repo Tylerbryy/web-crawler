@@ -1,0 +1,9 @@
+{
+	"id": "LtL1qxJCiM04Zr4",
+	"json": "{\"id\":\"LtL1qxJCiM04Zr4\",\"url\":\"https://python.langchain.com/docs/integrations/text_embedding/johnsnowlabs_embedding\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/text_embedding/johnsnowlabs_embedding\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/text_embedding/johnsnowlabs_embedding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:40:45.926Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/text_embedding/johnsnowlabs_embedding",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/johnsnowlabs_embedding"
+}

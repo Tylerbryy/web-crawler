@@ -1,0 +1,5 @@
+{
+	"title": "BGE on Hugging Face | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/bge_huggingface",
+	"html": "ComponentsText embedding modelsBGE on Hugging Face\nBGE on Hugging Face\n\nBGE models on the HuggingFace are the best open-source embedding models. BGE model is created by the Beijing Academy of Artificial Intelligence (BAAI). BAAI is a private non-profit organization engaged in AI research and development.\n\nThis notebook shows how to use BGE Embeddings through Hugging Face\n\n#!pip install sentence_transformers\n\nfrom langchain.embeddings import HuggingFaceBgeEmbeddings\n\nmodel_name = \"BAAI/bge-small-en\"\nmodel_kwargs = {\"device\": \"cpu\"}\nencode_kwargs = {\"normalize_embeddings\": True}\nhf = HuggingFaceBgeEmbeddings(\n    model_name=model_name, model_kwargs=model_kwargs, encode_kwargs=encode_kwargs\n)\n\nembedding = hf.embed_query(\"hi this is harrison\")\nlen(embedding)\n\n    384\n\nPrevious\nBedrock\nNext\nClarifai"
+}

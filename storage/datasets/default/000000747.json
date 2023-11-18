@@ -1,0 +1,5 @@
+{
+	"title": "PubMed | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/pubmed",
+	"html": "ProvidersMorePubMed\nPubMed\nPubMed\n\nPubMed® by The National Center for Biotechnology Information, National Library of Medicine comprises more than 35 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full text content from PubMed Central and publisher web sites.\n\nSetup​\n\nYou need to install a python package.\n\npip install xmltodict\n\nRetriever​\n\nSee a usage example.\n\nfrom langchain.retrievers import PubMedRetriever\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import PubMedLoader\n\nPrevious\nPsychic\nNext\nQdrant"
+}

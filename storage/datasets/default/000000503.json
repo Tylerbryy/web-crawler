@@ -1,0 +1,5 @@
+{
+	"title": "GigaChat | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/chat/gigachat",
+	"html": "ComponentsChat modelsGigaChat\nGigaChat\n\nThis notebook shows how to use LangChain with GigaChat. To use you need to install gigachat python package.\n\n# !pip install gigachat\n\n\nTo get GigaChat credentials you need to create account and get access to API\n\nExample​\nimport os\nfrom getpass import getpass\n\nos.environ[\"GIGACHAT_CREDENTIALS\"] = getpass()\n\nfrom langchain.chat_models import GigaChat\n\nchat = GigaChat(verify_ssl_certs=False)\n\nfrom langchain.schema import HumanMessage, SystemMessage\n\nmessages = [\n    SystemMessage(\n        content=\"You are a helpful AI that shares everything you know. Talk in English.\"\n    ),\n    HumanMessage(content=\"Tell me a joke\"),\n]\n\nprint(chat(messages).content)\n\n    What do you get when you cross a goat and a skunk? A smelly goat!\n\nPrevious\nFireworks\nNext\nGoogle Cloud Vertex AI"
+}

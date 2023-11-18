@@ -1,0 +1,5 @@
+{
+	"title": "College Confidential | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/college_confidential",
+	"html": "ProvidersMoreCollege Confidential\nCollege Confidential\n\nCollege Confidential gives information on 3,800+ colleges and universities.\n\nInstallation and Setup​\n\nThere isn't any special setup for it.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import CollegeConfidentialLoader\n\nPrevious\nCohere\nNext\nComet"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "AnalyticDB | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/analyticdb",
+	"html": "ProvidersMoreAnalyticDB\nAnalyticDB\n\nThis page covers how to use the AnalyticDB ecosystem within LangChain.\n\nVectorStore​\n\nThere exists a wrapper around AnalyticDB, allowing you to use it as a vectorstore, whether for semantic search or example selection.\n\nTo import this vectorstore:\n\nfrom langchain.vectorstores import AnalyticDB\n\n\nFor a more detailed walkthrough of the AnalyticDB wrapper, see this notebook\n\nPrevious\nAlibaba Cloud Opensearch\nNext\nAnnoy"
+}

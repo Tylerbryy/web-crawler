@@ -1,0 +1,5 @@
+{
+	"title": "List parser | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/modules/model_io/output_parsers/comma_separated",
+	"html": "ModulesModel I/OOutput parsersList parser\nList parser\n\nThis output parser can be used when you want to return a list of comma-separated items.\n\nfrom langchain.output_parsers import CommaSeparatedListOutputParser\nfrom langchain.prompts import PromptTemplate\nfrom langchain.llms import OpenAI\n\noutput_parser = CommaSeparatedListOutputParser()\n\nformat_instructions = output_parser.get_format_instructions()\nprompt = PromptTemplate(\n    template=\"List five {subject}.\\n{format_instructions}\",\n    input_variables=[\"subject\"],\n    partial_variables={\"format_instructions\": format_instructions}\n)\n\nmodel = OpenAI(temperature=0)\n\n_input = prompt.format(subject=\"ice cream flavors\")\noutput = model(_input)\n\noutput_parser.parse(output)\n\n\nThe resulting output will be:\n\n    ['Vanilla',\n     'Chocolate',\n     'Strawberry',\n     'Mint Chocolate Chip',\n     'Cookies and Cream']\n\nPrevious\nOutput parsers\nNext\nDatetime parser"
+}

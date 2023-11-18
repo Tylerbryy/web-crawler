@@ -1,0 +1,9 @@
+{
+	"id": "htQJhc7vLkP9w1Y",
+	"json": "{\"id\":\"htQJhc7vLkP9w1Y\",\"url\":\"https://python.langchain.com/docs/integrations/document_transformers/beautiful_soup\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/document_transformers/beautiful_soup\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/document_transformers/beautiful_soup\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:38:54.298Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/document_transformers/beautiful_soup",
+	"url": "https://python.langchain.com/docs/integrations/document_transformers/beautiful_soup"
+}

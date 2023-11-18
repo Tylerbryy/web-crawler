@@ -1,0 +1,9 @@
+{
+	"id": "Ux27zJkcPL1x74v",
+	"json": "{\"id\":\"Ux27zJkcPL1x74v\",\"url\":\"https://python.langchain.com/docs/integrations/text_embedding/huggingfacehub\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/text_embedding/huggingfacehub\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/text_embedding/huggingfacehub\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:40:45.816Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/text_embedding/huggingfacehub",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/huggingfacehub"
+}

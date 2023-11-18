@@ -1,0 +1,9 @@
+{
+	"id": "qBUIcSPYCXgbt57",
+	"json": "{\"id\":\"qBUIcSPYCXgbt57\",\"url\":\"https://python.langchain.com/docs/modules/data_connection/document_transformers/text_splitters/code_splitter\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/data_connection/document_transformers/text_splitters/code_splitter\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/data_connection/document_transformers/text_splitters/code_splitter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:41:14.152Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/data_connection/document_transformers/text_splitters/code_splitter",
+	"url": "https://python.langchain.com/docs/modules/data_connection/document_transformers/text_splitters/code_splitter"
+}

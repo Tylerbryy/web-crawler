@@ -1,0 +1,5 @@
+{
+	"title": "Tools as OpenAI Functions | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/modules/agents/tools/tools_as_openai_functions",
+	"html": "ModulesAgentsToolsTools as OpenAI Functions\nTools as OpenAI Functions\n\nThis notebook goes over how to use LangChain tools as OpenAI functions.\n\nfrom langchain.chat_models import ChatOpenAI\nfrom langchain.schema import HumanMessage\n\nmodel = ChatOpenAI(model=\"gpt-3.5-turbo-0613\")\n\nfrom langchain.tools import MoveFileTool, format_tool_to_openai_function\n\ntools = [MoveFileTool()]\nfunctions = [format_tool_to_openai_function(t) for t in tools]\n\nmessage = model.predict_messages(\n    [HumanMessage(content=\"move file foo to bar\")], functions=functions\n)\n\nmessage\n\n    AIMessage(content='', additional_kwargs={'function_call': {'name': 'move_file', 'arguments': '{\\n  \"source_path\": \"foo\",\\n  \"destination_path\": \"bar\"\\n}'}}, example=False)\n\nmessage.additional_kwargs[\"function_call\"]\n\n    {'name': 'move_file',\n     'arguments': '{\\n  \"source_path\": \"foo\",\\n  \"destination_path\": \"bar\"\\n}'}\n\nPrevious\nTool Input Schema\nNext\nAgents"
+}

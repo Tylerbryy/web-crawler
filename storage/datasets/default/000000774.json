@@ -1,0 +1,5 @@
+{
+	"title": "Tair | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/tair",
+	"html": "ProvidersMoreTair\nTair\n\nThis page covers how to use the Tair ecosystem within LangChain.\n\nInstallation and Setup​\n\nInstall Tair Python SDK with pip install tair.\n\nWrappers​\nVectorStore​\n\nThere exists a wrapper around TairVector, allowing you to use it as a vectorstore, whether for semantic search or example selection.\n\nTo import this vectorstore:\n\nfrom langchain.vectorstores import Tair\n\n\nFor a more detailed walkthrough of the Tair wrapper, see this notebook\n\nPrevious\nNebula\nNext\nTelegram"
+}

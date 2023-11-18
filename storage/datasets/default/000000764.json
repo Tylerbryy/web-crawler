@@ -1,0 +1,5 @@
+{
+	"title": "SingleStoreDB | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/singlestoredb",
+	"html": "ProvidersMoreSingleStoreDB\nSingleStoreDB\n\nSingleStoreDB is a high-performance distributed SQL database that supports deployment both in the cloud and on-premises. It provides vector storage, and vector functions including dot_product and euclidean_distance, thereby supporting AI applications that require text similarity matching.\n\nInstallation and Setup​\n\nThere are several ways to establish a connection to the database. You can either set up environment variables or pass named parameters to the SingleStoreDB constructor. Alternatively, you may provide these parameters to the from_documents and from_texts methods.\n\npip install singlestoredb\n\nVector Store​\n\nSee a usage example.\n\nfrom langchain.vectorstores import SingleStoreDB\n\nPrevious\nShale Protocol\nNext\nscikit-learn"
+}

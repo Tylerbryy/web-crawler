@@ -1,0 +1,5 @@
+{
+	"title": "Facebook Chat | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/facebook_chat",
+	"html": "ProvidersMoreFacebook Chat\nFacebook Chat\n\nMessenger is an American proprietary instant messaging app and platform developed by Meta Platforms. Originally developed as Facebook Chat in 2008, the company revamped its messaging service in 2010.\n\nInstallation and Setup​\n\nFirst, you need to install pandas python package.\n\npip install pandas\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import FacebookChatLoader\n\nPrevious\nEverNote\nNext\nFacebook Faiss"
+}

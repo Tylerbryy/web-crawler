@@ -1,0 +1,5 @@
+{
+	"title": "ReadTheDocs Documentation | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/readthedocs_documentation",
+	"html": "ComponentsDocument loadersReadTheDocs Documentation\nReadTheDocs Documentation\n\nRead the Docs is an open-sourced free software documentation hosting platform. It generates documentation written with the Sphinx documentation generator.\n\nThis notebook covers how to load content from HTML that was generated as part of a Read-The-Docs build.\n\nFor an example of this in the wild, see here.\n\nThis assumes that the HTML has already been scraped into a folder. This can be done by uncommenting and running the following command\n\n#!pip install beautifulsoup4\n\n#!wget -r -A.html -P rtdocs https://python.langchain.com/en/latest/\n\nfrom langchain.document_loaders import ReadTheDocsLoader\n\nloader = ReadTheDocsLoader(\"rtdocs\", features=\"html.parser\")\n\ndocs = loader.load()\n\nPrevious\nQuip\nNext\nRecursive URL"
+}

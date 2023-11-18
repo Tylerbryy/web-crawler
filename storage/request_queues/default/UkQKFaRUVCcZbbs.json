@@ -1,8 +1,8 @@
 {
 	"id": "UkQKFaRUVCcZbbs",
-	"json": "{\"id\":\"UkQKFaRUVCcZbbs\",\"url\":\"https://python.langchain.com/docs/expression_language/cookbook/sql_db\",\"uniqueKey\":\"https://python.langchain.com/docs/expression_language/cookbook/sql_db\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false}}}",
+	"json": "{\"id\":\"UkQKFaRUVCcZbbs\",\"url\":\"https://python.langchain.com/docs/expression_language/cookbook/sql_db\",\"loadedUrl\":\"https://python.langchain.com/docs/expression_language/cookbook/sql_db\",\"uniqueKey\":\"https://python.langchain.com/docs/expression_language/cookbook/sql_db\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:12.737Z\"}",
 	"method": "GET",
-	"orderNo": 1700325345556,
+	"orderNo": null,
 	"retryCount": 0,
 	"uniqueKey": "https://python.langchain.com/docs/expression_language/cookbook/sql_db",
 	"url": "https://python.langchain.com/docs/expression_language/cookbook/sql_db"

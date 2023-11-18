@@ -1,0 +1,5 @@
+{
+	"title": "OpenSearch | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/opensearch",
+	"html": "ProvidersMoreOpenSearch\nOpenSearch\n\nThis page covers how to use the OpenSearch ecosystem within LangChain. It is broken into two parts: installation and setup, and then references to specific OpenSearch wrappers.\n\nInstallation and Setup​\nInstall the Python package with pip install opensearch-py\nWrappers​\nVectorStore​\n\nThere exists a wrapper around OpenSearch vector databases, allowing you to use it as a vectorstore for semantic search using approximate vector search powered by lucene, nmslib and faiss engines or using painless scripting and script scoring functions for bruteforce vector search.\n\nTo import this vectorstore:\n\nfrom langchain.vectorstores import OpenSearchVectorSearch\n\n\nFor a more detailed walkthrough of the OpenSearch wrapper, see this notebook\n\nPrevious\nOpenLLM\nNext\nOpenWeatherMap"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Jw5TchsG1B9eof2",
+	"json": "{\"id\":\"Jw5TchsG1B9eof2\",\"url\":\"https://python.langchain.com/docs/integrations/document_transformers/doctran_translate_document\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/document_transformers/doctran_translate_document\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/document_transformers/doctran_translate_document\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:38:54.424Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/document_transformers/doctran_translate_document",
+	"url": "https://python.langchain.com/docs/integrations/document_transformers/doctran_translate_document"
+}

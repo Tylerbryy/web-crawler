@@ -1,0 +1,9 @@
+{
+	"id": "Bqdurn9KZ3dyttH",
+	"json": "{\"id\":\"Bqdurn9KZ3dyttH\",\"url\":\"https://python.langchain.com/docs/guides/evaluation/string/criteria_eval_chain\",\"loadedUrl\":\"https://python.langchain.com/docs/guides/evaluation/string/criteria_eval_chain\",\"uniqueKey\":\"https://python.langchain.com/docs/guides/evaluation/string/criteria_eval_chain\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:39:30.162Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/guides/evaluation/string/criteria_eval_chain",
+	"url": "https://python.langchain.com/docs/guides/evaluation/string/criteria_eval_chain"
+}

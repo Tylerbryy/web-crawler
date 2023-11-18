@@ -1,0 +1,5 @@
+{
+	"title": "Wolfram Alpha | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/tools/wolfram_alpha",
+	"html": "ComponentsToolsWolfram Alpha\nWolfram Alpha\n\nThis notebook goes over how to use the wolfram alpha component.\n\nFirst, you need to set up your Wolfram Alpha developer account and get your APP ID:\n\nGo to wolfram alpha and sign up for a developer account here\nCreate an app and get your APP ID\npip install wolframalpha\n\nThen we will need to set some environment variables:\n\nSave your APP ID into WOLFRAM_ALPHA_APPID env variable\npip install wolframalpha\n\nimport os\n\nos.environ[\"WOLFRAM_ALPHA_APPID\"] = \"\"\n\nfrom langchain.utilities.wolfram_alpha import WolframAlphaAPIWrapper\n\nwolfram = WolframAlphaAPIWrapper()\n\nwolfram.run(\"What is 2x+5 = -3x + 7?\")\n\n    'x = 2/5'\n\nPrevious\nWikipedia\nNext\nYahoo Finance News"
+}

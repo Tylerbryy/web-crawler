@@ -1,0 +1,5 @@
+{
+	"title": "Nebula | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/symblai_nebula",
+	"html": "ProvidersMoreNebula\nNebula\n\nThis page covers how to use Nebula, Symbl.ai's LLM, ecosystem within LangChain. It is broken into two parts: installation and setup, and then references to specific Nebula wrappers.\n\nInstallation and Setup​\nGet an Nebula API Key and set as environment variable NEBULA_API_KEY\nPlease see the Nebula documentation for more details.\nNo time? Visit the Nebula Quickstart Guide.\nLLM​\n\nThere exists an Nebula LLM wrapper, which you can access with\n\nfrom langchain.llms import Nebula\nllm = Nebula()\n\nPrevious\nSupabase (Postgres)\nNext\nTair"
+}

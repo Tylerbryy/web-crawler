@@ -1,0 +1,5 @@
+{
+	"title": "MongoDB Atlas | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/mongodb_atlas",
+	"html": "ProvidersMoreMongoDB Atlas\nMongoDB Atlas\n\nMongoDB Atlas is a fully-managed cloud database available in AWS, Azure, and GCP. It now has support for native Vector Search on the MongoDB document data.\n\nInstallation and Setup​\n\nSee detail configuration instructions.\n\nWe need to install pymongo python package.\n\npip install pymongo\n\nVector Store​\n\nSee a usage example.\n\nfrom langchain.vectorstores import MongoDBAtlasVectorSearch\n\nPrevious\nMomento\nNext\nMotherduck"
+}

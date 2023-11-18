@@ -1,8 +1,8 @@
 {
 	"id": "sTAfRsT4Tkitwyb",
-	"json": "{\"id\":\"sTAfRsT4Tkitwyb\",\"url\":\"https://python.langchain.com/docs/expression_language/cookbook/code_writing\",\"uniqueKey\":\"https://python.langchain.com/docs/expression_language/cookbook/code_writing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false}}}",
+	"json": "{\"id\":\"sTAfRsT4Tkitwyb\",\"url\":\"https://python.langchain.com/docs/expression_language/cookbook/code_writing\",\"loadedUrl\":\"https://python.langchain.com/docs/expression_language/cookbook/code_writing\",\"uniqueKey\":\"https://python.langchain.com/docs/expression_language/cookbook/code_writing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:12.947Z\"}",
 	"method": "GET",
-	"orderNo": 1700325345557,
+	"orderNo": null,
 	"retryCount": 0,
 	"uniqueKey": "https://python.langchain.com/docs/expression_language/cookbook/code_writing",
 	"url": "https://python.langchain.com/docs/expression_language/cookbook/code_writing"

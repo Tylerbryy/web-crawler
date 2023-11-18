@@ -1,0 +1,5 @@
+{
+	"title": "Confluence | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/confluence",
+	"html": "ProvidersMoreConfluence\nConfluence\n\nConfluence is a wiki collaboration platform that saves and organizes all of the project-related material. Confluence is a knowledge base that primarily handles content management activities.\n\nInstallation and Setup​\npip install atlassian-python-api\n\n\nWe need to set up username/api_key or Oauth2 login. See instructions.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import ConfluenceLoader\n\nPrevious\nConfident AI\nNext\nC Transformers"
+}

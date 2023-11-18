@@ -1,0 +1,5 @@
+{
+	"title": "Docugami | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/docugami",
+	"html": "ProvidersMoreDocugami\nDocugami\n\nDocugami converts business documents into a Document XML Knowledge Graph, generating forests of XML semantic trees representing entire documents. This is a rich representation that includes the semantic and structural characteristics of various chunks in the document as an XML tree.\n\nInstallation and Setup​\npip install lxml\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import DocugamiLoader\n\nPrevious\nDoctran\nNext\nDuckDB"
+}

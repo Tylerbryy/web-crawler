@@ -1,0 +1,9 @@
+{
+	"id": "nalFByBCQixLojk",
+	"json": "{\"id\":\"nalFByBCQixLojk\",\"url\":\"https://python.langchain.com/docs/integrations/retrievers/kay\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/retrievers/kay\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/retrievers/kay\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:37:27.760Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/retrievers/kay",
+	"url": "https://python.langchain.com/docs/integrations/retrievers/kay"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "Beautiful Soup | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/beautiful_soup",
+	"html": "ProvidersMoreBeautiful Soup\nBeautiful Soup\n\nBeautiful Soup is a Python package for parsing HTML and XML documents (including having malformed markup, i.e. non-closed tags, so named after tag soup). It creates a parse tree for parsed pages that can be used to extract data from HTML,[3] which is useful for web scraping.\n\nInstallation and Setup​\npip install beautifulsoup4\n\nDocument Transformer​\n\nSee a usage example.\n\nfrom langchain.document_loaders import BeautifulSoupTransformer\n\nPrevious\nBeam\nNext\nBiliBili"
+}

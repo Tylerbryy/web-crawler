@@ -1,0 +1,5 @@
+{
+	"title": "PipelineAI | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/pipelineai",
+	"html": "ProvidersMorePipelineAI\nPipelineAI\n\nThis page covers how to use the PipelineAI ecosystem within LangChain. It is broken into two parts: installation and setup, and then references to specific PipelineAI wrappers.\n\nInstallation and Setup​\nInstall with pip install pipeline-ai\nGet a Pipeline Cloud api key and set it as an environment variable (PIPELINE_API_KEY)\nWrappers​\nLLM​\n\nThere exists a PipelineAI LLM wrapper, which you can access with\n\nfrom langchain.llms import PipelineAI\n\nPrevious\nPinecone\nNext\nPortkey"
+}

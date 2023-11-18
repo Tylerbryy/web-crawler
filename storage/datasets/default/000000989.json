@@ -1,0 +1,5 @@
+{
+	"title": "Alpha Vantage | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/tools/alpha_vantage",
+	"html": "ComponentsToolsAlpha Vantage\nAlpha Vantage\n\nAlpha Vantage Alpha Vantage provides realtime and historical financial market data through a set of powerful and developer-friendly data APIs and spreadsheets.\n\nUse the AlphaVantageAPIWrapper to get currency exchange rates.\n\nimport getpass\nimport os\n\nos.environ[\"ALPHAVANTAGE_API_KEY\"] = getpass.getpass()\n\n     ········\n\nfrom langchain.utilities.alpha_vantage import AlphaVantageAPIWrapper\n\nalpha_vantage = AlphaVantageAPIWrapper()\n\nalpha_vantage.run(\"USD\", \"JPY\")\n\n    {'1. From_Currency Code': 'USD',\n     '2. From_Currency Name': 'United States Dollar',\n     '3. To_Currency Code': 'JPY',\n     '4. To_Currency Name': 'Japanese Yen',\n     '5. Exchange Rate': '144.93000000',\n     '6. Last Refreshed': '2023-08-11 21:31:01',\n     '7. Time Zone': 'UTC',\n     '8. Bid Price': '144.92600000',\n     '9. Ask Price': '144.93400000'}\n\nPrevious\nTools\nNext\nApify"
+}

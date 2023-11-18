@@ -1,0 +1,9 @@
+{
+	"id": "MeWd15uGuvdEaPi",
+	"json": "{\"id\":\"MeWd15uGuvdEaPi\",\"url\":\"https://python.langchain.com/docs/integrations/document_loaders/open_city_data\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/document_loaders/open_city_data\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/document_loaders/open_city_data\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:53.014Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/document_loaders/open_city_data",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/open_city_data"
+}

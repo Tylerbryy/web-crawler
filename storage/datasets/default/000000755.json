@@ -1,0 +1,5 @@
+{
+	"title": "Rockset | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/rockset",
+	"html": "ProvidersMoreRockset\nRockset\n\nRockset is a real-time analytics database service for serving low latency, high concurrency analytical queries at scale. It builds a Converged Index™ on structured and semi-structured data with an efficient store for vector embeddings. Its support for running SQL on schemaless data makes it a perfect choice for running vector search with metadata filters.\n\nInstallation and Setup​\n\nMake sure you have Rockset account and go to the web console to get the API key. Details can be found on the website.\n\npip install rockset\n\nVector Store​\n\nSee a usage example.\n\nfrom langchain.vectorstores import Rockset \n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import RocksetLoader\n\nChat Message History​\n\nSee a usage example.\n\nfrom langchain.memory.chat_message_histories import RocksetChatMessageHistory\n\nPrevious\nRoam\nNext\nRunhouse"
+}

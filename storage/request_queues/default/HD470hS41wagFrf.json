@@ -1,8 +1,8 @@
 {
 	"id": "HD470hS41wagFrf",
-	"json": "{\"id\":\"HD470hS41wagFrf\",\"url\":\"https://python.langchain.com/docs/modules/memory/\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/memory\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false}}}",
+	"json": "{\"id\":\"HD470hS41wagFrf\",\"url\":\"https://python.langchain.com/docs/modules/memory/\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/memory/\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/memory\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:14.371Z\"}",
 	"method": "GET",
-	"orderNo": 1700325345950,
+	"orderNo": null,
 	"retryCount": 0,
 	"uniqueKey": "https://python.langchain.com/docs/modules/memory",
 	"url": "https://python.langchain.com/docs/modules/memory/"

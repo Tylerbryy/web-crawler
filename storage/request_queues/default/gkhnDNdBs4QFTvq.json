@@ -1,0 +1,9 @@
+{
+	"id": "gkhnDNdBs4QFTvq",
+	"json": "{\"id\":\"gkhnDNdBs4QFTvq\",\"url\":\"https://python.langchain.com/docs/integrations/document_loaders/azure_blob_storage_container\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/document_loaders/azure_blob_storage_container\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/document_loaders/azure_blob_storage_container\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:35.692Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/document_loaders/azure_blob_storage_container",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/azure_blob_storage_container"
+}

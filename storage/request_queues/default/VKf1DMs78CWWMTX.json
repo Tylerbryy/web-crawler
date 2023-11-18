@@ -1,0 +1,9 @@
+{
+	"id": "VKf1DMs78CWWMTX",
+	"json": "{\"id\":\"VKf1DMs78CWWMTX\",\"url\":\"https://python.langchain.com/docs/integrations/retrievers/Activeloop%20DeepMemory+LangChain\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/retrievers/Activeloop%20DeepMemory+LangChain\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/retrievers/Activeloop%20DeepMemory+LangChain\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:37:25.441Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/retrievers/Activeloop%20DeepMemory+LangChain",
+	"url": "https://python.langchain.com/docs/integrations/retrievers/Activeloop%20DeepMemory+LangChain"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "Llama-cpp | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/llamacpp",
+	"html": "ComponentsText embedding modelsLlama-cpp\nLlama-cpp\n\nThis notebook goes over how to use Llama-cpp embeddings within LangChain\n\npip install llama-cpp-python\n\nfrom langchain.embeddings import LlamaCppEmbeddings\n\nllama = LlamaCppEmbeddings(model_path=\"/path/to/model/ggml-model-q4_0.bin\")\n\ntext = \"This is a test document.\"\n\nquery_result = llama.embed_query(text)\n\ndoc_result = llama.embed_documents([text])\n\nPrevious\nJohn Snow Labs\nNext\nLLMRails"
+}

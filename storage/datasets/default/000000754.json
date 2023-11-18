@@ -1,0 +1,5 @@
+{
+	"title": "Roam | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/roam",
+	"html": "ProvidersMoreRoam\nRoam\n\nROAM is a note-taking tool for networked thought, designed to create a personal knowledge base.\n\nInstallation and Setup​\n\nThere isn't any special setup for it.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import RoamLoader\n\nPrevious\nReplicate\nNext\nRockset"
+}

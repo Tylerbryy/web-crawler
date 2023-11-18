@@ -1,0 +1,5 @@
+{
+	"title": "Tencent COS File | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/tencent_cos_file",
+	"html": "ComponentsDocument loadersTencent COS File\nTencent COS File\n\nThis covers how to load document object from a Tencent COS File.\n\n#! pip install cos-python-sdk-v5\n\nfrom langchain.document_loaders import TencentCOSFileLoader\nfrom qcloud_cos import CosConfig\n\nconf = CosConfig(\n    Region=\"your cos region\",\n    SecretId=\"your cos secret_id\",\n    SecretKey=\"your cos secret_key\",\n)\nloader = TencentCOSFileLoader(conf=conf, bucket=\"you_cos_bucket\", key=\"fake.docx\")\n\nloader.load()\n\nPrevious\nTencent COS Directory\nNext\nTensorFlow Datasets"
+}

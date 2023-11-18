@@ -1,0 +1,5 @@
+{
+	"title": "Telegram | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/telegram",
+	"html": "ProvidersMoreTelegram\nTelegram\n\nTelegram Messenger is a globally accessible freemium, cross-platform, encrypted, cloud-based and centralized instant messaging service. The application also provides optional end-to-end encrypted chats and video calling, VoIP, file sharing and several other features.\n\nInstallation and Setup​\n\nSee setup instructions.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import TelegramChatFileLoader\nfrom langchain.document_loaders import TelegramChatApiLoader\n\nPrevious\nTair\nNext\nTencentVectorDB"
+}

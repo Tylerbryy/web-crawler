@@ -1,0 +1,5 @@
+{
+	"title": "scikit-learn | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/sklearn",
+	"html": "ProvidersMorescikit-learn\nscikit-learn\n\nscikit-learn is an open-source collection of machine learning algorithms, including some implementations of the k nearest neighbors. SKLearnVectorStore wraps this implementation and adds the possibility to persist the vector store in json, bson (binary json) or Apache Parquet format.\n\nInstallation and Setup​\nInstall the Python package with pip install scikit-learn\nVector Store​\n\nSKLearnVectorStore provides a simple wrapper around the nearest neighbor implementation in the scikit-learn package, allowing you to use it as a vectorstore.\n\nTo import this vectorstore:\n\nfrom langchain.vectorstores import SKLearnVectorStore\n\n\nFor a more detailed walkthrough of the SKLearnVectorStore wrapper, see this notebook.\n\nPrevious\nSingleStoreDB\nNext\nSlack"
+}

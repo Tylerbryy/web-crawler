@@ -1,0 +1,5 @@
+{
+	"title": "ForefrontAI | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/forefrontai",
+	"html": "ProvidersMoreForefrontAI\nForefrontAI\n\nThis page covers how to use the ForefrontAI ecosystem within LangChain. It is broken into two parts: installation and setup, and then references to specific ForefrontAI wrappers.\n\nInstallation and Setup​\nGet an ForefrontAI api key and set it as an environment variable (FOREFRONTAI_API_KEY)\nWrappers​\nLLM​\n\nThere exists an ForefrontAI LLM wrapper, which you can access with\n\nfrom langchain.llms import ForefrontAI\n\nPrevious\nFlyte\nNext\nGit"
+}

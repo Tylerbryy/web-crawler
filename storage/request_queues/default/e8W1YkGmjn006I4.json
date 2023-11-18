@@ -1,0 +1,9 @@
+{
+	"id": "e8W1YkGmjn006I4",
+	"json": "{\"id\":\"e8W1YkGmjn006I4\",\"url\":\"https://python.langchain.com/docs/integrations/document_loaders/figma\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/document_loaders/figma\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/document_loaders/figma\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:42.249Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/document_loaders/figma",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/figma"
+}

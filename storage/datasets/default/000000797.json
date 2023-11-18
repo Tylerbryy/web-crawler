@@ -1,0 +1,5 @@
+{
+	"title": "Writer | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/writer",
+	"html": "ProvidersMoreWriter\nWriter\n\nThis page covers how to use the Writer ecosystem within LangChain. It is broken into two parts: installation and setup, and then references to specific Writer wrappers.\n\nInstallation and Setup​\nGet an Writer api key and set it as an environment variable (WRITER_API_KEY)\nWrappers​\nLLM​\n\nThere exists an Writer LLM wrapper, which you can access with\n\nfrom langchain.llms import Writer\n\nPrevious\nWolfram Alpha\nNext\nXata"
+}

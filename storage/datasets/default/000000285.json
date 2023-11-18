@@ -1,0 +1,5 @@
+{
+	"title": "Org-mode | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/org_mode",
+	"html": "ComponentsDocument loadersOrg-mode\nOrg-mode\n\nA Org Mode document is a document editing, formatting, and organizing mode, designed for notes, planning, and authoring within the free software text editor Emacs.\n\nUnstructuredOrgModeLoader​\n\nYou can load data from Org-mode files with UnstructuredOrgModeLoader using the following workflow.\n\nfrom langchain.document_loaders import UnstructuredOrgModeLoader\n\nloader = UnstructuredOrgModeLoader(file_path=\"example_data/README.org\", mode=\"elements\")\ndocs = loader.load()\n\nprint(docs[0])\n\n    page_content='Example Docs' metadata={'source': 'example_data/README.org', 'filename': 'README.org', 'file_directory': 'example_data', 'filetype': 'text/org', 'page_number': 1, 'category': 'Title'}\n\nPrevious\nOpen City Data\nNext\nPandas DataFrame"
+}

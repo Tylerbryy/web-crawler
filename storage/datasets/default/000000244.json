@@ -1,0 +1,5 @@
+{
+	"title": "Fauna | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/document_loaders/fauna",
+	"html": "ComponentsDocument loadersFauna\nFauna\n\nFauna is a Document Database.\n\nQuery Fauna documents\n\n#!pip install fauna\n\nQuery data example​\nfrom langchain.document_loaders.fauna import FaunaLoader\n\nsecret = \"<enter-valid-fauna-secret>\"\nquery = \"Item.all()\"  # Fauna query. Assumes that the collection is called \"Item\"\nfield = \"text\"  # The field that contains the page content. Assumes that the field is called \"text\"\n\nloader = FaunaLoader(query, field, secret)\ndocs = loader.lazy_load()\n\nfor value in docs:\n    print(value)\n\nQuery with Pagination​\n\nYou get a after value if there are more data. You can get values after the curcor by passing in the after string in query.\n\nTo learn more following this link\n\nquery = \"\"\"\nItem.paginate(\"hs+DzoPOg ... aY1hOohozrV7A\")\nItem.all()\n\"\"\"\nloader = FaunaLoader(query, field, secret)\n\nPrevious\nFacebook Chat\nNext\nFigma"
+}

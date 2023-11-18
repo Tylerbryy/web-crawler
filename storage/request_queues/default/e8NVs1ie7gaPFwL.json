@@ -1,0 +1,9 @@
+{
+	"id": "e8NVs1ie7gaPFwL",
+	"json": "{\"id\":\"e8NVs1ie7gaPFwL\",\"url\":\"https://python.langchain.com/docs/integrations/providers/tair\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/providers/tair\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/providers/tair\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:40:02.732Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/providers/tair",
+	"url": "https://python.langchain.com/docs/integrations/providers/tair"
+}

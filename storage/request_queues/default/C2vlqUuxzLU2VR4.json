@@ -1,0 +1,9 @@
+{
+	"id": "C2vlqUuxzLU2VR4",
+	"json": "{\"id\":\"C2vlqUuxzLU2VR4\",\"url\":\"https://python.langchain.com/docs/integrations/providers/petals\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/providers/petals\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/providers/petals\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:39:33.748Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/providers/petals",
+	"url": "https://python.langchain.com/docs/integrations/providers/petals"
+}

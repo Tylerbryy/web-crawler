@@ -1,0 +1,9 @@
+{
+	"id": "oB0ePqTGY7hnsPL",
+	"json": "{\"id\":\"oB0ePqTGY7hnsPL\",\"url\":\"https://python.langchain.com/docs/integrations/text_embedding/llamacpp\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/text_embedding/llamacpp\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/text_embedding/llamacpp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:40:46.661Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/text_embedding/llamacpp",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/llamacpp"
+}

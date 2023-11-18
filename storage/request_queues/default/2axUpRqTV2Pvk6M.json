@@ -1,0 +1,9 @@
+{
+	"id": "2axUpRqTV2Pvk6M",
+	"json": "{\"id\":\"2axUpRqTV2Pvk6M\",\"url\":\"https://python.langchain.com/docs/integrations/retrievers/tf_idf\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/retrievers/tf_idf\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/retrievers/tf_idf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:37:36.809Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/retrievers/tf_idf",
+	"url": "https://python.langchain.com/docs/integrations/retrievers/tf_idf"
+}

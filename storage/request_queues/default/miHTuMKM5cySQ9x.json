@@ -1,0 +1,9 @@
+{
+	"id": "miHTuMKM5cySQ9x",
+	"json": "{\"id\":\"miHTuMKM5cySQ9x\",\"url\":\"https://python.langchain.com/docs/integrations/llms/ai21\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/llms/ai21\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/llms/ai21\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:38:12.073Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/llms/ai21",
+	"url": "https://python.langchain.com/docs/integrations/llms/ai21"
+}

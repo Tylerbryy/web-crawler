@@ -1,0 +1,5 @@
+{
+	"title": "Datadog Logs | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/datadog_logs",
+	"html": "ProvidersMoreDatadog Logs\nDatadog Logs\n\nDatadog is a monitoring and analytics platform for cloud-scale applications.\n\nInstallation and Setup​\npip install datadog_api_client\n\n\nWe must initialize the loader with the Datadog API key and APP key, and we need to set up the query to extract the desired logs.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import DatadogLogsLoader\n\nPrevious\nDatadog Tracing\nNext\nDataForSEO"
+}

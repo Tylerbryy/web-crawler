@@ -1,0 +1,9 @@
+{
+	"id": "aaGBa7MbXvhQya5",
+	"json": "{\"id\":\"aaGBa7MbXvhQya5\",\"url\":\"https://python.langchain.com/docs/modules/callbacks/token_counting\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/callbacks/token_counting\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/callbacks/token_counting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:36:20.065Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/callbacks/token_counting",
+	"url": "https://python.langchain.com/docs/modules/callbacks/token_counting"
+}

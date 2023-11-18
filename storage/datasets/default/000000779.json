@@ -1,0 +1,5 @@
+{
+	"title": "2Markdown | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/tomarkdown",
+	"html": "ProvidersMore2Markdown\n2Markdown\n\n2markdown service transforms website content into structured markdown files.\n\nInstallation and Setup​\n\nWe need the API key. See instructions how to get it.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import ToMarkdownLoader\n\nPrevious\nTigris\nNext\nTrello"
+}

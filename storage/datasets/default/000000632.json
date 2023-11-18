@@ -1,0 +1,5 @@
+{
+	"title": "AZLyrics | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/azlyrics",
+	"html": "ProvidersMoreAZLyrics\nAZLyrics\n\nAZLyrics is a large, legal, every day growing collection of lyrics.\n\nInstallation and Setup​\n\nThere isn't any special setup for it.\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import AZLyricsLoader\n\nPrevious\nAWS DynamoDB\nNext\nBagelDB"
+}

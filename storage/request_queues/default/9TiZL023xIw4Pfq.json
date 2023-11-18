@@ -1,0 +1,9 @@
+{
+	"id": "9TiZL023xIw4Pfq",
+	"json": "{\"id\":\"9TiZL023xIw4Pfq\",\"url\":\"https://python.langchain.com/docs/integrations/memory/zep_memory\",\"loadedUrl\":\"https://python.langchain.com/docs/integrations/memory/zep_memory\",\"uniqueKey\":\"https://python.langchain.com/docs/integrations/memory/zep_memory\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:41:23.854Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/integrations/memory/zep_memory",
+	"url": "https://python.langchain.com/docs/integrations/memory/zep_memory"
+}

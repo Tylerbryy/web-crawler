@@ -1,0 +1,5 @@
+{
+	"title": "BiliBili | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/bilibili",
+	"html": "ProvidersMoreBiliBili\nBiliBili\n\nBilibili is one of the most beloved long-form video sites in China.\n\nInstallation and Setup​\npip install bilibili-api-python\n\nDocument Loader​\n\nSee a usage example.\n\nfrom langchain.document_loaders import BiliBiliLoader\n\nPrevious\nBeautiful Soup\nNext\nNIBittensor"
+}

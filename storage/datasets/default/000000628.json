@@ -1,0 +1,5 @@
+{
+	"title": "Atlas | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/providers/atlas",
+	"html": "ProvidersMoreAtlas\nAtlas\n\nNomic Atlas is a platform for interacting with both small and internet scale unstructured datasets.\n\nInstallation and Setup​\nInstall the Python package with pip install nomic\nNomic is also included in langchains poetry extras poetry install -E all\nVectorStore​\n\nSee a usage example.\n\nfrom langchain.vectorstores import AtlasDB\n\nPrevious\nAstra DB\nNext\nAwaDB"
+}

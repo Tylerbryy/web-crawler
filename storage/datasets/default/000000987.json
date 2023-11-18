@@ -1,0 +1,5 @@
+{
+	"title": "Upstash Redis | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/memory/upstash_redis_chat_message_history",
+	"html": "ComponentsMemoryUpstash Redis\nUpstash Redis\n\nUpstash is a provider of the serverless Redis, Kafka, and QStash APIs.\n\nThis notebook goes over how to use Upstash Redis to store chat message history.\n\nfrom langchain.memory.chat_message_histories.upstash_redis import (\n    UpstashRedisChatMessageHistory,\n)\n\nURL = \"<UPSTASH_REDIS_REST_URL>\"\nTOKEN = \"<UPSTASH_REDIS_REST_TOKEN>\"\n\nhistory = UpstashRedisChatMessageHistory(\n    url=URL, token=TOKEN, ttl=10, session_id=\"my-test-session\"\n)\n\nhistory.add_user_message(\"hello llm!\")\nhistory.add_ai_message(\"hello user!\")\n\nhistory.messages\n\nPrevious\nStreamlit\nNext\nXata"
+}

@@ -1,0 +1,5 @@
+{
+	"title": "ERNIE | 🦜️🔗 Langchain",
+	"url": "https://python.langchain.com/docs/integrations/text_embedding/ernie",
+	"html": "ComponentsText embedding modelsERNIE\nERNIE\n\nERNIE Embedding-V1 is a text representation model based on Baidu Wenxin large-scale model technology, which converts text into a vector form represented by numerical values, and is used in text retrieval, information recommendation, knowledge mining and other scenarios.\n\nfrom langchain.embeddings import ErnieEmbeddings\n\nembeddings = ErnieEmbeddings()\n\nquery_result = embeddings.embed_query(\"foo\")\n\ndoc_results = embeddings.embed_documents([\"foo\"])\n\nPrevious\nEmbaas\nNext\nFake Embeddings"
+}

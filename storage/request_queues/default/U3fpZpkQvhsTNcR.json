@@ -1,0 +1,9 @@
+{
+	"id": "U3fpZpkQvhsTNcR",
+	"json": "{\"id\":\"U3fpZpkQvhsTNcR\",\"url\":\"https://python.langchain.com/docs/modules/agents/tools/how_to/custom_tools\",\"loadedUrl\":\"https://python.langchain.com/docs/modules/agents/tools/custom_tools\",\"uniqueKey\":\"https://python.langchain.com/docs/modules/agents/tools/how_to/custom_tools\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"skipNavigation\":false,\"state\":4}},\"handledAt\":\"2023-11-18T16:42:23.939Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://python.langchain.com/docs/modules/agents/tools/how_to/custom_tools",
+	"url": "https://python.langchain.com/docs/modules/agents/tools/how_to/custom_tools"
+}
